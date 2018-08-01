@@ -152,19 +152,19 @@ public class Main {
 		Map<String, Object> root = new HashMap<>();
 		root.put("nodes", servicesView.nodes);
 		root.put("links", servicesView.links);
-		temp.process(root, new FileWriter(new File("services.json")));
+		temp.process(root, new FileWriter(new File("html/services.json")));
 
 		root.put("nodes", modulesView.nodes);
 		root.put("links", modulesView.links);
-		temp.process(root, new FileWriter(new File("modules.json")));
+		temp.process(root, new FileWriter(new File("html/modules.json")));
 
 		root.put("nodes", packagesView.nodes);
 		root.put("links", packagesView.links);
-		temp.process(root, new FileWriter(new File("packages.json")));
+		temp.process(root, new FileWriter(new File("html/packages.json")));
 
 		root.put("nodes", allView.nodes);
 		root.put("links", allView.links);
-		temp.process(root, new FileWriter(new File("all.json")));
+		temp.process(root, new FileWriter(new File("html/all.json")));
 	}
 
 }		
