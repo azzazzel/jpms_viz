@@ -1,0 +1,2726 @@
+{
+    "data": {
+        "nodes": [
+            
+                {
+                    "ID": "m.jdk.deploy",
+                    "LABEL": "jdk.deploy",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.deploy"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.accessibility",
+                    "LABEL": "jdk.accessibility",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.accessibility"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.internal.vm.ci",
+                    "LABEL": "jdk.internal.vm.ci",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.internal.vm.ci"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.localedata",
+                    "LABEL": "jdk.localedata",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.localedata"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.naming.dns",
+                    "LABEL": "jdk.naming.dns",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.naming.dns"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.snmp",
+                    "LABEL": "jdk.snmp",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.snmp"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.jstatd",
+                    "LABEL": "jdk.jstatd",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.jstatd"
+                }
+                ,
+
+                {
+                    "ID": "m.java.scripting",
+                    "LABEL": "java.scripting",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "java.scripting"
+                }
+                ,
+
+                {
+                    "ID": "m.java.smartcardio",
+                    "LABEL": "java.smartcardio",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "java.smartcardio"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.javaws",
+                    "LABEL": "jdk.javaws",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.javaws"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.xml.dom",
+                    "LABEL": "jdk.xml.dom",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.xml.dom"
+                }
+                ,
+
+                {
+                    "ID": "m.java.datatransfer",
+                    "LABEL": "java.datatransfer",
+                    "COLORVALUE": "blue",
+                    "COLORLABEL": "Base module",
+                    "SIZEVALUE": "10",
+                    "INFOSTRING": "java.datatransfer"
+                }
+                ,
+
+                {
+                    "ID": "m.java.rmi",
+                    "LABEL": "java.rmi",
+                    "COLORVALUE": "blue",
+                    "COLORLABEL": "Base module",
+                    "SIZEVALUE": "10",
+                    "INFOSTRING": "java.rmi"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.packager.services",
+                    "LABEL": "jdk.packager.services",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.packager.services"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.internal.jvmstat",
+                    "LABEL": "jdk.internal.jvmstat",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.internal.jvmstat"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.management.resource",
+                    "LABEL": "jdk.management.resource",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.management.resource"
+                }
+                ,
+
+                {
+                    "ID": "m.java.xml",
+                    "LABEL": "java.xml",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "java.xml"
+                }
+                ,
+
+                {
+                    "ID": "m.javafx.graphics",
+                    "LABEL": "javafx.graphics",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "javafx.graphics"
+                }
+                ,
+
+                {
+                    "ID": "m.javafx.fxml",
+                    "LABEL": "javafx.fxml",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "javafx.fxml"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.jdi",
+                    "LABEL": "jdk.jdi",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.jdi"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.security.jgss",
+                    "LABEL": "jdk.security.jgss",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.security.jgss"
+                }
+                ,
+
+                {
+                    "ID": "m.javafx.controls",
+                    "LABEL": "javafx.controls",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "javafx.controls"
+                }
+                ,
+
+                {
+                    "ID": "m.javafx.media",
+                    "LABEL": "javafx.media",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "javafx.media"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.jshell",
+                    "LABEL": "jdk.jshell",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.jshell"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.naming.rmi",
+                    "LABEL": "jdk.naming.rmi",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.naming.rmi"
+                }
+                ,
+
+                {
+                    "ID": "m.javafx.swing",
+                    "LABEL": "javafx.swing",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "javafx.swing"
+                }
+                ,
+
+                {
+                    "ID": "m.java.se",
+                    "LABEL": "java.se",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "java.se"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.jsobject",
+                    "LABEL": "jdk.jsobject",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.jsobject"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.jlink",
+                    "LABEL": "jdk.jlink",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.jlink"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.scripting.nashorn",
+                    "LABEL": "jdk.scripting.nashorn",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.scripting.nashorn"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.internal.vm.compiler",
+                    "LABEL": "jdk.internal.vm.compiler",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.internal.vm.compiler"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.httpserver",
+                    "LABEL": "jdk.httpserver",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.httpserver"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.jartool",
+                    "LABEL": "jdk.jartool",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.jartool"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.net",
+                    "LABEL": "jdk.net",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.net"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.plugin",
+                    "LABEL": "jdk.plugin",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.plugin"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.jdwp.agent",
+                    "LABEL": "jdk.jdwp.agent",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.jdwp.agent"
+                }
+                ,
+
+                {
+                    "ID": "m.oracle.net",
+                    "LABEL": "oracle.net",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "oracle.net"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.management.agent",
+                    "LABEL": "jdk.management.agent",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.management.agent"
+                }
+                ,
+
+                {
+                    "ID": "m.java.instrument",
+                    "LABEL": "java.instrument",
+                    "COLORVALUE": "blue",
+                    "COLORLABEL": "Base module",
+                    "SIZEVALUE": "10",
+                    "INFOSTRING": "java.instrument"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.sctp",
+                    "LABEL": "jdk.sctp",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.sctp"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.management",
+                    "LABEL": "jdk.management",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.management"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.dynalink",
+                    "LABEL": "jdk.dynalink",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.dynalink"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.internal.ed",
+                    "LABEL": "jdk.internal.ed",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.internal.ed"
+                }
+                ,
+
+                {
+                    "ID": "m.javafx.web",
+                    "LABEL": "javafx.web",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "javafx.web"
+                }
+                ,
+
+                {
+                    "ID": "m.java.naming",
+                    "LABEL": "java.naming",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "java.naming"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.internal.le",
+                    "LABEL": "jdk.internal.le",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.internal.le"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.management.jfr",
+                    "LABEL": "jdk.management.jfr",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.management.jfr"
+                }
+                ,
+
+                {
+                    "ID": "m.java.logging",
+                    "LABEL": "java.logging",
+                    "COLORVALUE": "blue",
+                    "COLORLABEL": "Base module",
+                    "SIZEVALUE": "10",
+                    "INFOSTRING": "java.logging"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.editpad",
+                    "LABEL": "jdk.editpad",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.editpad"
+                }
+                ,
+
+                {
+                    "ID": "m.java.management.rmi",
+                    "LABEL": "java.management.rmi",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "java.management.rmi"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.unsupported",
+                    "LABEL": "jdk.unsupported",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.unsupported"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.zipfs",
+                    "LABEL": "jdk.zipfs",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.zipfs"
+                }
+                ,
+
+                {
+                    "ID": "m.java.sql",
+                    "LABEL": "java.sql",
+                    "COLORVALUE": "blue",
+                    "COLORLABEL": "Base module",
+                    "SIZEVALUE": "10",
+                    "INFOSTRING": "java.sql"
+                }
+                ,
+
+                {
+                    "ID": "m.java.security.sasl",
+                    "LABEL": "java.security.sasl",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "java.security.sasl"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.jdeps",
+                    "LABEL": "jdk.jdeps",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.jdeps"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.packager",
+                    "LABEL": "jdk.packager",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.packager"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.javadoc",
+                    "LABEL": "jdk.javadoc",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.javadoc"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.attach",
+                    "LABEL": "jdk.attach",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.attach"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.security.auth",
+                    "LABEL": "jdk.security.auth",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.security.auth"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.jconsole",
+                    "LABEL": "jdk.jconsole",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.jconsole"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.jfr",
+                    "LABEL": "jdk.jfr",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.jfr"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.management.cmm",
+                    "LABEL": "jdk.management.cmm",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.management.cmm"
+                }
+                ,
+
+                {
+                    "ID": "m.java.prefs",
+                    "LABEL": "java.prefs",
+                    "COLORVALUE": "blue",
+                    "COLORLABEL": "Base module",
+                    "SIZEVALUE": "10",
+                    "INFOSTRING": "java.prefs"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.compiler",
+                    "LABEL": "jdk.compiler",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.compiler"
+                }
+                ,
+
+                {
+                    "ID": "m.java.management",
+                    "LABEL": "java.management",
+                    "COLORVALUE": "blue",
+                    "COLORLABEL": "Base module",
+                    "SIZEVALUE": "10",
+                    "INFOSTRING": "java.management"
+                }
+                ,
+
+                {
+                    "ID": "m.oracle.desktop",
+                    "LABEL": "oracle.desktop",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "oracle.desktop"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.internal.vm.compiler.management",
+                    "LABEL": "jdk.internal.vm.compiler.management",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.internal.vm.compiler.management"
+                }
+                ,
+
+                {
+                    "ID": "m.javafx.base",
+                    "LABEL": "javafx.base",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "javafx.base"
+                }
+                ,
+
+                {
+                    "ID": "m.java.jnlp",
+                    "LABEL": "java.jnlp",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "java.jnlp"
+                }
+                ,
+
+                {
+                    "ID": "m.java.security.jgss",
+                    "LABEL": "java.security.jgss",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "java.security.jgss"
+                }
+                ,
+
+                {
+                    "ID": "m.java.compiler",
+                    "LABEL": "java.compiler",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "java.compiler"
+                }
+                ,
+
+                {
+                    "ID": "m.java.base",
+                    "LABEL": "java.base",
+                    "COLORVALUE": "blue",
+                    "COLORLABEL": "Base module",
+                    "SIZEVALUE": "10",
+                    "INFOSTRING": "java.base"
+                }
+                ,
+
+                {
+                    "ID": "m.java.desktop",
+                    "LABEL": "java.desktop",
+                    "COLORVALUE": "blue",
+                    "COLORLABEL": "Base module",
+                    "SIZEVALUE": "10",
+                    "INFOSTRING": "java.desktop"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.crypto.ec",
+                    "LABEL": "jdk.crypto.ec",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.crypto.ec"
+                }
+                ,
+
+                {
+                    "ID": "m.java.sql.rowset",
+                    "LABEL": "java.sql.rowset",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "java.sql.rowset"
+                }
+                ,
+
+                {
+                    "ID": "m.java.xml.crypto",
+                    "LABEL": "java.xml.crypto",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "java.xml.crypto"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.internal.opt",
+                    "LABEL": "jdk.internal.opt",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.internal.opt"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.crypto.cryptoki",
+                    "LABEL": "jdk.crypto.cryptoki",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.crypto.cryptoki"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.charsets",
+                    "LABEL": "jdk.charsets",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.charsets"
+                }
+                
+        ],
+        "links": [
+                {
+                    "FROMID": "m.jdk.unsupported",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.web",
+                    "TOID": "m.jdk.xml.dom",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jlink",
+                    "TOID": "m.jdk.internal.opt",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.compiler",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.snmp",
+                    "TOID": "m.jdk.management.agent",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.web",
+                    "TOID": "m.javafx.graphics",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jconsole",
+                    "TOID": "m.java.desktop",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.internal.vm.compiler",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.management",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.se",
+                    "TOID": "m.java.compiler",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.crypto.ec",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jshell",
+                    "TOID": "m.jdk.internal.le",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jshell",
+                    "TOID": "m.jdk.compiler",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.packager",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.plugin",
+                    "TOID": "m.java.logging",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jshell",
+                    "TOID": "m.java.prefs",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.deploy",
+                    "TOID": "m.java.xml",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.graphics",
+                    "TOID": "m.java.desktop",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.security.auth",
+                    "TOID": "m.java.security.jgss",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.httpserver",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.desktop",
+                    "TOID": "m.java.xml",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.internal.vm.compiler.management",
+                    "TOID": "m.jdk.management",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.editpad",
+                    "TOID": "m.java.desktop",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.javaws",
+                    "TOID": "m.java.rmi",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.management.cmm",
+                    "TOID": "m.jdk.management",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.security.auth",
+                    "TOID": "m.java.naming",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.javaws",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.internal.vm.compiler",
+                    "TOID": "m.jdk.unsupported",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.compiler",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.graphics",
+                    "TOID": "m.java.xml",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.javaws",
+                    "TOID": "m.jdk.deploy",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jsobject",
+                    "TOID": "m.java.desktop",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.rmi",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.swing",
+                    "TOID": "m.java.desktop",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.naming.dns",
+                    "TOID": "m.java.naming",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.management.rmi",
+                    "TOID": "m.java.naming",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.se",
+                    "TOID": "m.java.xml.crypto",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.instrument",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.accessibility",
+                    "TOID": "m.java.desktop",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.jnlp",
+                    "TOID": "m.java.desktop",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.internal.opt",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.deploy",
+                    "TOID": "m.java.desktop",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.javaws",
+                    "TOID": "m.java.datatransfer",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.base",
+                    "TOID": "m.java.desktop",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jdeps",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.controls",
+                    "TOID": "m.javafx.graphics",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jfr",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.deploy",
+                    "TOID": "m.java.logging",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.fxml",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.naming.dns",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.internal.vm.compiler",
+                    "TOID": "m.jdk.management",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.sql",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.packager",
+                    "TOID": "m.java.logging",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.internal.vm.compiler",
+                    "TOID": "m.java.management",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.internal.vm.compiler.management",
+                    "TOID": "m.java.management",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.web",
+                    "TOID": "m.jdk.jsobject",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.plugin",
+                    "TOID": "m.jdk.deploy",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.plugin",
+                    "TOID": "m.java.rmi",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.fxml",
+                    "TOID": "m.javafx.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.web",
+                    "TOID": "m.javafx.media",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.sql.rowset",
+                    "TOID": "m.java.sql",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.security.sasl",
+                    "TOID": "m.java.logging",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.web",
+                    "TOID": "m.java.xml",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.accessibility",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.scripting.nashorn",
+                    "TOID": "m.java.logging",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jshell",
+                    "TOID": "m.java.logging",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.internal.le",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.management.rmi",
+                    "TOID": "m.java.rmi",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.desktop",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.deploy",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.javaws",
+                    "TOID": "m.java.logging",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.se",
+                    "TOID": "m.java.datatransfer",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.sql.rowset",
+                    "TOID": "m.java.logging",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.deploy",
+                    "TOID": "m.java.rmi",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.deploy",
+                    "TOID": "m.java.naming",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.javaws",
+                    "TOID": "m.java.xml",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.xml.crypto",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jconsole",
+                    "TOID": "m.java.rmi",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.deploy",
+                    "TOID": "m.java.management",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.packager",
+                    "TOID": "m.jdk.jlink",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.oracle.net",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.se",
+                    "TOID": "m.java.prefs",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.javadoc",
+                    "TOID": "m.java.compiler",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jstatd",
+                    "TOID": "m.jdk.internal.jvmstat",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.web",
+                    "TOID": "m.java.logging",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.security.auth",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.naming",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.se",
+                    "TOID": "m.java.security.jgss",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.web",
+                    "TOID": "m.javafx.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jdeps",
+                    "TOID": "m.java.compiler",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.security.jgss",
+                    "TOID": "m.java.security.jgss",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.se",
+                    "TOID": "m.java.desktop",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.internal.jvmstat",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.management.jfr",
+                    "TOID": "m.jdk.jfr",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.charsets",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.javadoc",
+                    "TOID": "m.java.xml",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.editpad",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.security.jgss",
+                    "TOID": "m.java.naming",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jstatd",
+                    "TOID": "m.java.rmi",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.media",
+                    "TOID": "m.javafx.graphics",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.datatransfer",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.management.resource",
+                    "TOID": "m.java.instrument",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jshell",
+                    "TOID": "m.java.compiler",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.zipfs",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.deploy",
+                    "TOID": "m.java.scripting",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.management.rmi",
+                    "TOID": "m.java.management",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jconsole",
+                    "TOID": "m.java.management",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.management.jfr",
+                    "TOID": "m.java.management",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jconsole",
+                    "TOID": "m.jdk.internal.jvmstat",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.sctp",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.plugin",
+                    "TOID": "m.jdk.javaws",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.se",
+                    "TOID": "m.java.management.rmi",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.xml.dom",
+                    "TOID": "m.java.xml",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.internal.ed",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.plugin",
+                    "TOID": "m.java.desktop",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.packager.services",
+                    "TOID": "m.java.desktop",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.internal.vm.compiler.management",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.plugin",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.packager.services",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.prefs",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.javaws",
+                    "TOID": "m.java.jnlp",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.internal.vm.compiler",
+                    "TOID": "m.java.instrument",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.scripting",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.internal.vm.compiler",
+                    "TOID": "m.jdk.internal.vm.ci",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.compiler",
+                    "TOID": "m.java.compiler",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.xml.crypto",
+                    "TOID": "m.java.logging",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.web",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.fxml",
+                    "TOID": "m.javafx.graphics",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jconsole",
+                    "TOID": "m.jdk.attach",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.base",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.sql.rowset",
+                    "TOID": "m.java.naming",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.swing",
+                    "TOID": "m.java.datatransfer",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.dynalink",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.swing",
+                    "TOID": "m.javafx.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.se",
+                    "TOID": "m.java.rmi",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.se",
+                    "TOID": "m.java.sql.rowset",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.javaws",
+                    "TOID": "m.java.prefs",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jshell",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.security.jgss",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.attach",
+                    "TOID": "m.jdk.internal.jvmstat",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.se",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jdi",
+                    "TOID": "m.jdk.jdwp.agent",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.media",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.management.agent",
+                    "TOID": "m.java.management.rmi",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.security.jgss",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jsobject",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.desktop",
+                    "TOID": "m.java.datatransfer",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.packager",
+                    "TOID": "m.java.desktop",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.graphics",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.jnlp",
+                    "TOID": "m.java.datatransfer",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.management",
+                    "TOID": "m.java.management",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.oracle.desktop",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jdeps",
+                    "TOID": "m.jdk.compiler",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.packager",
+                    "TOID": "m.java.xml",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.editpad",
+                    "TOID": "m.jdk.internal.ed",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.internal.vm.compiler.management",
+                    "TOID": "m.jdk.internal.vm.compiler",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.se",
+                    "TOID": "m.java.naming",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.naming.rmi",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.sql",
+                    "TOID": "m.java.xml",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.fxml",
+                    "TOID": "m.java.xml",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.snmp",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jartool",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.deploy",
+                    "TOID": "m.jdk.unsupported",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.naming.rmi",
+                    "TOID": "m.java.naming",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.attach",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.management.jfr",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.packager.services",
+                    "TOID": "m.java.prefs",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.controls",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.graphics",
+                    "TOID": "m.javafx.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.se",
+                    "TOID": "m.java.scripting",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jstatd",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jlink",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.jnlp",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.snmp",
+                    "TOID": "m.java.logging",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.controls",
+                    "TOID": "m.javafx.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.crypto.cryptoki",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.management.agent",
+                    "TOID": "m.java.management",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.management.cmm",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jlink",
+                    "TOID": "m.jdk.jdeps",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.security.jgss",
+                    "TOID": "m.java.security.sasl",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.dynalink",
+                    "TOID": "m.java.logging",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.prefs",
+                    "TOID": "m.java.xml",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.snmp",
+                    "TOID": "m.java.management",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.smartcardio",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.fxml",
+                    "TOID": "m.java.logging",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.oracle.desktop",
+                    "TOID": "m.java.desktop",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.security.jgss",
+                    "TOID": "m.java.logging",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.sql",
+                    "TOID": "m.java.logging",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.plugin",
+                    "TOID": "m.jdk.jsobject",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jdi",
+                    "TOID": "m.jdk.attach",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.logging",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jdwp.agent",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.web",
+                    "TOID": "m.java.desktop",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.media",
+                    "TOID": "m.javafx.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.swing",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.se",
+                    "TOID": "m.java.xml",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jconsole",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.se",
+                    "TOID": "m.java.management",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.management.rmi",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.desktop",
+                    "TOID": "m.java.prefs",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.internal.vm.compiler.management",
+                    "TOID": "m.jdk.internal.vm.ci",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.internal.vm.ci",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.management.resource",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.scripting.nashorn",
+                    "TOID": "m.java.scripting",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.management.jfr",
+                    "TOID": "m.jdk.management",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.javaws",
+                    "TOID": "m.java.desktop",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jshell",
+                    "TOID": "m.jdk.internal.opt",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.xml.dom",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jconsole",
+                    "TOID": "m.java.management.rmi",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.rmi",
+                    "TOID": "m.java.logging",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.sql.rowset",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.fxml",
+                    "TOID": "m.java.scripting",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.scripting.nashorn",
+                    "TOID": "m.jdk.dynalink",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.deploy",
+                    "TOID": "m.java.prefs",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.javadoc",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.xml.crypto",
+                    "TOID": "m.java.xml",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jshell",
+                    "TOID": "m.jdk.jdi",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.javadoc",
+                    "TOID": "m.jdk.compiler",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.xml",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.se",
+                    "TOID": "m.java.logging",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.naming.rmi",
+                    "TOID": "m.java.rmi",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.localedata",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.management.cmm",
+                    "TOID": "m.java.management",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.crypto.cryptoki",
+                    "TOID": "m.jdk.crypto.ec",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.se",
+                    "TOID": "m.java.security.sasl",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jdi",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.se",
+                    "TOID": "m.java.sql",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.se",
+                    "TOID": "m.java.instrument",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.swing",
+                    "TOID": "m.javafx.graphics",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.plugin",
+                    "TOID": "m.java.jnlp",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.plugin",
+                    "TOID": "m.java.xml",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jshell",
+                    "TOID": "m.jdk.internal.ed",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.management.agent",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.web",
+                    "TOID": "m.javafx.controls",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.naming",
+                    "TOID": "m.java.security.sasl",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.scripting.nashorn",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jconsole",
+                    "TOID": "m.jdk.management.agent",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.management",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.security.sasl",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.net",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jconsole",
+                    "TOID": "m.jdk.management",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                
+        ]
+    }
+}
