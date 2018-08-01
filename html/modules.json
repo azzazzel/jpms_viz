@@ -33,22 +33,22 @@
                 ,
 
                 {
-                    "ID": "m.jdk.localedata",
-                    "LABEL": "jdk.localedata",
-                    "COLORVALUE": "navy",
-                    "COLORLABEL": "Module",
-                    "SIZEVALUE": "7",
-                    "INFOSTRING": "jdk.localedata"
-                }
-                ,
-
-                {
                     "ID": "m.jdk.naming.dns",
                     "LABEL": "jdk.naming.dns",
                     "COLORVALUE": "navy",
                     "COLORLABEL": "Module",
                     "SIZEVALUE": "7",
                     "INFOSTRING": "jdk.naming.dns"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.localedata",
+                    "LABEL": "jdk.localedata",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.localedata"
                 }
                 ,
 
@@ -93,22 +93,22 @@
                 ,
 
                 {
-                    "ID": "m.jdk.javaws",
-                    "LABEL": "jdk.javaws",
-                    "COLORVALUE": "navy",
-                    "COLORLABEL": "Module",
-                    "SIZEVALUE": "7",
-                    "INFOSTRING": "jdk.javaws"
-                }
-                ,
-
-                {
                     "ID": "m.jdk.xml.dom",
                     "LABEL": "jdk.xml.dom",
                     "COLORVALUE": "navy",
                     "COLORLABEL": "Module",
                     "SIZEVALUE": "7",
                     "INFOSTRING": "jdk.xml.dom"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.javaws",
+                    "LABEL": "jdk.javaws",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.javaws"
                 }
                 ,
 
@@ -143,22 +143,22 @@
                 ,
 
                 {
-                    "ID": "m.jdk.internal.jvmstat",
-                    "LABEL": "jdk.internal.jvmstat",
-                    "COLORVALUE": "navy",
-                    "COLORLABEL": "Module",
-                    "SIZEVALUE": "7",
-                    "INFOSTRING": "jdk.internal.jvmstat"
-                }
-                ,
-
-                {
                     "ID": "m.jdk.management.resource",
                     "LABEL": "jdk.management.resource",
                     "COLORVALUE": "navy",
                     "COLORLABEL": "Module",
                     "SIZEVALUE": "7",
                     "INFOSTRING": "jdk.management.resource"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.internal.jvmstat",
+                    "LABEL": "jdk.internal.jvmstat",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.internal.jvmstat"
                 }
                 ,
 
@@ -213,6 +213,16 @@
                 ,
 
                 {
+                    "ID": "m.jdk.jshell",
+                    "LABEL": "jdk.jshell",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.jshell"
+                }
+                ,
+
+                {
                     "ID": "m.javafx.controls",
                     "LABEL": "javafx.controls",
                     "COLORVALUE": "navy",
@@ -229,16 +239,6 @@
                     "COLORLABEL": "Module",
                     "SIZEVALUE": "7",
                     "INFOSTRING": "javafx.media"
-                }
-                ,
-
-                {
-                    "ID": "m.jdk.jshell",
-                    "LABEL": "jdk.jshell",
-                    "COLORVALUE": "navy",
-                    "COLORLABEL": "Module",
-                    "SIZEVALUE": "7",
-                    "INFOSTRING": "jdk.jshell"
                 }
                 ,
 
@@ -343,22 +343,22 @@
                 ,
 
                 {
-                    "ID": "m.jdk.plugin",
-                    "LABEL": "jdk.plugin",
-                    "COLORVALUE": "navy",
-                    "COLORLABEL": "Module",
-                    "SIZEVALUE": "7",
-                    "INFOSTRING": "jdk.plugin"
-                }
-                ,
-
-                {
                     "ID": "m.jdk.jdwp.agent",
                     "LABEL": "jdk.jdwp.agent",
                     "COLORVALUE": "navy",
                     "COLORLABEL": "Module",
                     "SIZEVALUE": "7",
                     "INFOSTRING": "jdk.jdwp.agent"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.plugin",
+                    "LABEL": "jdk.plugin",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.plugin"
                 }
                 ,
 
@@ -483,22 +483,22 @@
                 ,
 
                 {
-                    "ID": "m.jdk.editpad",
-                    "LABEL": "jdk.editpad",
-                    "COLORVALUE": "navy",
-                    "COLORLABEL": "Module",
-                    "SIZEVALUE": "7",
-                    "INFOSTRING": "jdk.editpad"
-                }
-                ,
-
-                {
                     "ID": "m.java.management.rmi",
                     "LABEL": "java.management.rmi",
                     "COLORVALUE": "navy",
                     "COLORLABEL": "Module",
                     "SIZEVALUE": "7",
                     "INFOSTRING": "java.management.rmi"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.editpad",
+                    "LABEL": "jdk.editpad",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.editpad"
                 }
                 ,
 
@@ -573,22 +573,22 @@
                 ,
 
                 {
-                    "ID": "m.jdk.attach",
-                    "LABEL": "jdk.attach",
-                    "COLORVALUE": "navy",
-                    "COLORLABEL": "Module",
-                    "SIZEVALUE": "7",
-                    "INFOSTRING": "jdk.attach"
-                }
-                ,
-
-                {
                     "ID": "m.jdk.security.auth",
                     "LABEL": "jdk.security.auth",
                     "COLORVALUE": "navy",
                     "COLORLABEL": "Module",
                     "SIZEVALUE": "7",
                     "INFOSTRING": "jdk.security.auth"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.attach",
+                    "LABEL": "jdk.attach",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.attach"
                 }
                 ,
 
@@ -733,6 +733,16 @@
                 ,
 
                 {
+                    "ID": "m.java.xml.crypto",
+                    "LABEL": "java.xml.crypto",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "java.xml.crypto"
+                }
+                ,
+
+                {
                     "ID": "m.jdk.crypto.ec",
                     "LABEL": "jdk.crypto.ec",
                     "COLORVALUE": "navy",
@@ -753,16 +763,6 @@
                 ,
 
                 {
-                    "ID": "m.java.xml.crypto",
-                    "LABEL": "java.xml.crypto",
-                    "COLORVALUE": "navy",
-                    "COLORLABEL": "Module",
-                    "SIZEVALUE": "7",
-                    "INFOSTRING": "java.xml.crypto"
-                }
-                ,
-
-                {
                     "ID": "m.jdk.internal.opt",
                     "LABEL": "jdk.internal.opt",
                     "COLORVALUE": "navy",
@@ -773,22 +773,22 @@
                 ,
 
                 {
-                    "ID": "m.jdk.crypto.cryptoki",
-                    "LABEL": "jdk.crypto.cryptoki",
-                    "COLORVALUE": "navy",
-                    "COLORLABEL": "Module",
-                    "SIZEVALUE": "7",
-                    "INFOSTRING": "jdk.crypto.cryptoki"
-                }
-                ,
-
-                {
                     "ID": "m.jdk.charsets",
                     "LABEL": "jdk.charsets",
                     "COLORVALUE": "navy",
                     "COLORLABEL": "Module",
                     "SIZEVALUE": "7",
                     "INFOSTRING": "jdk.charsets"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.crypto.cryptoki",
+                    "LABEL": "jdk.crypto.cryptoki",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.crypto.cryptoki"
                 }
                 
         ],
@@ -810,16 +810,16 @@
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.jlink",
-                    "TOID": "m.jdk.internal.opt",
+                    "FROMID": "m.java.compiler",
+                    "TOID": "m.java.base",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
                 }
                 ,
                 {
-                    "FROMID": "m.java.compiler",
-                    "TOID": "m.java.base",
+                    "FROMID": "m.jdk.jlink",
+                    "TOID": "m.jdk.internal.opt",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
@@ -834,16 +834,16 @@
                 }
                 ,
                 {
-                    "FROMID": "m.javafx.web",
-                    "TOID": "m.javafx.graphics",
+                    "FROMID": "m.jdk.jconsole",
+                    "TOID": "m.java.desktop",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.jconsole",
-                    "TOID": "m.java.desktop",
+                    "FROMID": "m.javafx.web",
+                    "TOID": "m.javafx.graphics",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
@@ -930,16 +930,16 @@
                 }
                 ,
                 {
-                    "FROMID": "m.javafx.graphics",
-                    "TOID": "m.java.desktop",
+                    "FROMID": "m.jdk.security.auth",
+                    "TOID": "m.java.security.jgss",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.security.auth",
-                    "TOID": "m.java.security.jgss",
+                    "FROMID": "m.javafx.graphics",
+                    "TOID": "m.java.desktop",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
@@ -970,14 +970,6 @@
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.editpad",
-                    "TOID": "m.java.desktop",
-                    "STYLE": "solid",
-                    "INFOSTRING": "Requires",
-                    "COLOR": "gray"
-                }
-                ,
-                {
                     "FROMID": "m.jdk.javaws",
                     "TOID": "m.java.rmi",
                     "STYLE": "solid",
@@ -988,6 +980,14 @@
                 {
                     "FROMID": "m.jdk.management.cmm",
                     "TOID": "m.jdk.management",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.editpad",
+                    "TOID": "m.java.desktop",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
@@ -1082,14 +1082,6 @@
                 }
                 ,
                 {
-                    "FROMID": "m.java.se",
-                    "TOID": "m.java.xml.crypto",
-                    "STYLE": "solid",
-                    "INFOSTRING": "Requires",
-                    "COLOR": "gray"
-                }
-                ,
-                {
                     "FROMID": "m.java.instrument",
                     "TOID": "m.java.base",
                     "STYLE": "solid",
@@ -1098,8 +1090,16 @@
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.accessibility",
-                    "TOID": "m.java.desktop",
+                    "FROMID": "m.java.se",
+                    "TOID": "m.java.xml.crypto",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.internal.opt",
+                    "TOID": "m.java.base",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
@@ -1114,8 +1114,8 @@
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.internal.opt",
-                    "TOID": "m.java.base",
+                    "FROMID": "m.jdk.accessibility",
+                    "TOID": "m.java.desktop",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
@@ -1146,16 +1146,16 @@
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.jdeps",
-                    "TOID": "m.java.base",
+                    "FROMID": "m.javafx.controls",
+                    "TOID": "m.javafx.graphics",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
                 }
                 ,
                 {
-                    "FROMID": "m.javafx.controls",
-                    "TOID": "m.javafx.graphics",
+                    "FROMID": "m.jdk.jdeps",
+                    "TOID": "m.java.base",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
@@ -1354,14 +1354,6 @@
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.javaws",
-                    "TOID": "m.java.logging",
-                    "STYLE": "solid",
-                    "INFOSTRING": "Requires",
-                    "COLOR": "gray"
-                }
-                ,
-                {
                     "FROMID": "m.java.se",
                     "TOID": "m.java.datatransfer",
                     "STYLE": "solid",
@@ -1370,7 +1362,7 @@
                 }
                 ,
                 {
-                    "FROMID": "m.java.sql.rowset",
+                    "FROMID": "m.jdk.javaws",
                     "TOID": "m.java.logging",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
@@ -1380,6 +1372,14 @@
                 {
                     "FROMID": "m.jdk.deploy",
                     "TOID": "m.java.rmi",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.sql.rowset",
+                    "TOID": "m.java.logging",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
@@ -1506,16 +1506,16 @@
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.jdeps",
-                    "TOID": "m.java.compiler",
+                    "FROMID": "m.jdk.security.jgss",
+                    "TOID": "m.java.security.jgss",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.security.jgss",
-                    "TOID": "m.java.security.jgss",
+                    "FROMID": "m.jdk.jdeps",
+                    "TOID": "m.java.compiler",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
@@ -1562,8 +1562,8 @@
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.editpad",
-                    "TOID": "m.java.base",
+                    "FROMID": "m.jdk.jstatd",
+                    "TOID": "m.java.rmi",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
@@ -1578,8 +1578,8 @@
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.jstatd",
-                    "TOID": "m.java.rmi",
+                    "FROMID": "m.jdk.editpad",
+                    "TOID": "m.java.base",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
@@ -1634,7 +1634,7 @@
                 }
                 ,
                 {
-                    "FROMID": "m.java.management.rmi",
+                    "FROMID": "m.jdk.jconsole",
                     "TOID": "m.java.management",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
@@ -1642,7 +1642,7 @@
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.jconsole",
+                    "FROMID": "m.java.management.rmi",
                     "TOID": "m.java.management",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
@@ -1722,15 +1722,7 @@
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.internal.vm.compiler.management",
-                    "TOID": "m.java.base",
-                    "STYLE": "solid",
-                    "INFOSTRING": "Requires",
-                    "COLOR": "gray"
-                }
-                ,
-                {
-                    "FROMID": "m.jdk.plugin",
+                    "FROMID": "m.java.prefs",
                     "TOID": "m.java.base",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
@@ -1746,7 +1738,15 @@
                 }
                 ,
                 {
-                    "FROMID": "m.java.prefs",
+                    "FROMID": "m.jdk.plugin",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.internal.vm.compiler.management",
                     "TOID": "m.java.base",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
@@ -1778,16 +1778,16 @@
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.internal.vm.compiler",
-                    "TOID": "m.jdk.internal.vm.ci",
+                    "FROMID": "m.jdk.compiler",
+                    "TOID": "m.java.compiler",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.compiler",
-                    "TOID": "m.java.compiler",
+                    "FROMID": "m.jdk.internal.vm.compiler",
+                    "TOID": "m.jdk.internal.vm.ci",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
@@ -1810,16 +1810,16 @@
                 }
                 ,
                 {
-                    "FROMID": "m.javafx.fxml",
-                    "TOID": "m.javafx.graphics",
+                    "FROMID": "m.jdk.jconsole",
+                    "TOID": "m.jdk.attach",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.jconsole",
-                    "TOID": "m.jdk.attach",
+                    "FROMID": "m.javafx.fxml",
+                    "TOID": "m.javafx.graphics",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
@@ -1834,16 +1834,16 @@
                 }
                 ,
                 {
-                    "FROMID": "m.java.sql.rowset",
-                    "TOID": "m.java.naming",
+                    "FROMID": "m.javafx.swing",
+                    "TOID": "m.java.datatransfer",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
                 }
                 ,
                 {
-                    "FROMID": "m.javafx.swing",
-                    "TOID": "m.java.datatransfer",
+                    "FROMID": "m.java.sql.rowset",
+                    "TOID": "m.java.naming",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
@@ -1882,14 +1882,6 @@
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.javaws",
-                    "TOID": "m.java.prefs",
-                    "STYLE": "solid",
-                    "INFOSTRING": "Requires",
-                    "COLOR": "gray"
-                }
-                ,
-                {
                     "FROMID": "m.jdk.jshell",
                     "TOID": "m.java.base",
                     "STYLE": "solid",
@@ -1898,8 +1890,8 @@
                 }
                 ,
                 {
-                    "FROMID": "m.java.security.jgss",
-                    "TOID": "m.java.base",
+                    "FROMID": "m.jdk.javaws",
+                    "TOID": "m.java.prefs",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
@@ -1914,7 +1906,23 @@
                 }
                 ,
                 {
+                    "FROMID": "m.java.security.jgss",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
                     "FROMID": "m.java.se",
+                    "TOID": "m.java.base",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.media",
                     "TOID": "m.java.base",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
@@ -1924,14 +1932,6 @@
                 {
                     "FROMID": "m.jdk.jdi",
                     "TOID": "m.jdk.jdwp.agent",
-                    "STYLE": "solid",
-                    "INFOSTRING": "Requires",
-                    "COLOR": "gray"
-                }
-                ,
-                {
-                    "FROMID": "m.javafx.media",
-                    "TOID": "m.java.base",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
@@ -2146,16 +2146,16 @@
                 }
                 ,
                 {
-                    "FROMID": "m.java.se",
-                    "TOID": "m.java.scripting",
+                    "FROMID": "m.jdk.jstatd",
+                    "TOID": "m.java.base",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.jstatd",
-                    "TOID": "m.java.base",
+                    "FROMID": "m.java.se",
+                    "TOID": "m.java.scripting",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
@@ -2194,16 +2194,16 @@
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.crypto.cryptoki",
-                    "TOID": "m.java.base",
+                    "FROMID": "m.jdk.management.agent",
+                    "TOID": "m.java.management",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.management.agent",
-                    "TOID": "m.java.management",
+                    "FROMID": "m.jdk.crypto.cryptoki",
+                    "TOID": "m.java.base",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
@@ -2218,16 +2218,16 @@
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.jlink",
-                    "TOID": "m.jdk.jdeps",
+                    "FROMID": "m.jdk.security.jgss",
+                    "TOID": "m.java.security.sasl",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.security.jgss",
-                    "TOID": "m.java.security.sasl",
+                    "FROMID": "m.jdk.jlink",
+                    "TOID": "m.jdk.jdeps",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
@@ -2314,7 +2314,7 @@
                 }
                 ,
                 {
-                    "FROMID": "m.java.logging",
+                    "FROMID": "m.jdk.jdwp.agent",
                     "TOID": "m.java.base",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
@@ -2322,7 +2322,7 @@
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.jdwp.agent",
+                    "FROMID": "m.java.logging",
                     "TOID": "m.java.base",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
@@ -2332,14 +2332,6 @@
                 {
                     "FROMID": "m.javafx.web",
                     "TOID": "m.java.desktop",
-                    "STYLE": "solid",
-                    "INFOSTRING": "Requires",
-                    "COLOR": "gray"
-                }
-                ,
-                {
-                    "FROMID": "m.javafx.media",
-                    "TOID": "m.javafx.base",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
@@ -2356,6 +2348,14 @@
                 {
                     "FROMID": "m.java.se",
                     "TOID": "m.java.xml",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Requires",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.media",
+                    "TOID": "m.javafx.base",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
@@ -2434,16 +2434,16 @@
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.javaws",
-                    "TOID": "m.java.desktop",
+                    "FROMID": "m.jdk.jshell",
+                    "TOID": "m.jdk.internal.opt",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.jshell",
-                    "TOID": "m.jdk.internal.opt",
+                    "FROMID": "m.jdk.javaws",
+                    "TOID": "m.java.desktop",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
@@ -2490,16 +2490,16 @@
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.scripting.nashorn",
-                    "TOID": "m.jdk.dynalink",
+                    "FROMID": "m.jdk.deploy",
+                    "TOID": "m.java.prefs",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.deploy",
-                    "TOID": "m.java.prefs",
+                    "FROMID": "m.jdk.scripting.nashorn",
+                    "TOID": "m.jdk.dynalink",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
@@ -2578,16 +2578,16 @@
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.crypto.cryptoki",
-                    "TOID": "m.jdk.crypto.ec",
+                    "FROMID": "m.java.se",
+                    "TOID": "m.java.security.sasl",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
                 }
                 ,
                 {
-                    "FROMID": "m.java.se",
-                    "TOID": "m.java.security.sasl",
+                    "FROMID": "m.jdk.crypto.cryptoki",
+                    "TOID": "m.jdk.crypto.ec",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
                     "COLOR": "gray"
@@ -2690,7 +2690,7 @@
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.management",
+                    "FROMID": "m.java.security.sasl",
                     "TOID": "m.java.base",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",
@@ -2698,7 +2698,7 @@
                 }
                 ,
                 {
-                    "FROMID": "m.java.security.sasl",
+                    "FROMID": "m.jdk.management",
                     "TOID": "m.java.base",
                     "STYLE": "solid",
                     "INFOSTRING": "Requires",

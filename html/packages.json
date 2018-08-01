@@ -183,16 +183,6 @@
                 ,
 
                 {
-                    "ID": "p.sun.plugin2.uitoolkit.impl.awt",
-                    "LABEL": "sun.plugin2.uitoolkit.impl.awt",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "sun.plugin2.uitoolkit.impl.awt"
-                }
-                ,
-
-                {
                     "ID": "p.sun.rmi.server",
                     "LABEL": "sun.rmi.server",
                     "COLORVALUE": "orange",
@@ -203,12 +193,12 @@
                 ,
 
                 {
-                    "ID": "p.java.util",
-                    "LABEL": "java.util",
+                    "ID": "p.sun.plugin2.uitoolkit.impl.awt",
+                    "LABEL": "sun.plugin2.uitoolkit.impl.awt",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
-                    "INFOSTRING": "java.util"
+                    "INFOSTRING": "sun.plugin2.uitoolkit.impl.awt"
                 }
                 ,
 
@@ -223,6 +213,16 @@
                 ,
 
                 {
+                    "ID": "p.java.util",
+                    "LABEL": "java.util",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.util"
+                }
+                ,
+
+                {
                     "ID": "m.jdk.jsobject",
                     "LABEL": "jdk.jsobject",
                     "COLORVALUE": "navy",
@@ -233,22 +233,22 @@
                 ,
 
                 {
-                    "ID": "p.java.net.spi",
-                    "LABEL": "java.net.spi",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "java.net.spi"
-                }
-                ,
-
-                {
                     "ID": "p.sun.text.resources",
                     "LABEL": "sun.text.resources",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "sun.text.resources"
+                }
+                ,
+
+                {
+                    "ID": "p.java.net.spi",
+                    "LABEL": "java.net.spi",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.net.spi"
                 }
                 ,
 
@@ -283,16 +283,6 @@
                 ,
 
                 {
-                    "ID": "p.javafx.scene.image",
-                    "LABEL": "javafx.scene.image",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "javafx.scene.image"
-                }
-                ,
-
-                {
                     "ID": "p.sun.security.jgss.krb5",
                     "LABEL": "sun.security.jgss.krb5",
                     "COLORVALUE": "orange",
@@ -303,12 +293,12 @@
                 ,
 
                 {
-                    "ID": "p.jdk.internal.misc",
-                    "LABEL": "jdk.internal.misc",
+                    "ID": "p.javafx.scene.image",
+                    "LABEL": "javafx.scene.image",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
-                    "INFOSTRING": "jdk.internal.misc"
+                    "INFOSTRING": "javafx.scene.image"
                 }
                 ,
 
@@ -319,6 +309,16 @@
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "sun.nio.cs"
+                }
+                ,
+
+                {
+                    "ID": "p.jdk.internal.misc",
+                    "LABEL": "jdk.internal.misc",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "jdk.internal.misc"
                 }
                 ,
 
@@ -563,12 +563,12 @@
                 ,
 
                 {
-                    "ID": "p.com.sun.org.apache.xpath.internal",
-                    "LABEL": "com.sun.org.apache.xpath.internal",
+                    "ID": "p.com.sun.javafx.property",
+                    "LABEL": "com.sun.javafx.property",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
-                    "INFOSTRING": "com.sun.org.apache.xpath.internal"
+                    "INFOSTRING": "com.sun.javafx.property"
                 }
                 ,
 
@@ -583,12 +583,12 @@
                 ,
 
                 {
-                    "ID": "p.com.sun.javafx.property",
-                    "LABEL": "com.sun.javafx.property",
+                    "ID": "p.com.sun.org.apache.xpath.internal",
+                    "LABEL": "com.sun.org.apache.xpath.internal",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
-                    "INFOSTRING": "com.sun.javafx.property"
+                    "INFOSTRING": "com.sun.org.apache.xpath.internal"
                 }
                 ,
 
@@ -613,6 +613,16 @@
                 ,
 
                 {
+                    "ID": "p.com.sun.deploy.appcontext",
+                    "LABEL": "com.sun.deploy.appcontext",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "com.sun.deploy.appcontext"
+                }
+                ,
+
+                {
                     "ID": "m.jdk.packager",
                     "LABEL": "jdk.packager",
                     "COLORVALUE": "navy",
@@ -633,12 +643,12 @@
                 ,
 
                 {
-                    "ID": "p.com.sun.deploy.appcontext",
-                    "LABEL": "com.sun.deploy.appcontext",
+                    "ID": "p.jdk.dynalink.linker.support",
+                    "LABEL": "jdk.dynalink.linker.support",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
-                    "INFOSTRING": "com.sun.deploy.appcontext"
+                    "INFOSTRING": "jdk.dynalink.linker.support"
                 }
                 ,
 
@@ -649,16 +659,6 @@
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "com.sun.jdi"
-                }
-                ,
-
-                {
-                    "ID": "p.jdk.dynalink.linker.support",
-                    "LABEL": "jdk.dynalink.linker.support",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "jdk.dynalink.linker.support"
                 }
                 ,
 
@@ -873,22 +873,22 @@
                 ,
 
                 {
-                    "ID": "p.javafx.print",
-                    "LABEL": "javafx.print",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "javafx.print"
-                }
-                ,
-
-                {
                     "ID": "p.com.sun.deploy.uitoolkit",
                     "LABEL": "com.sun.deploy.uitoolkit",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "com.sun.deploy.uitoolkit"
+                }
+                ,
+
+                {
+                    "ID": "p.javafx.print",
+                    "LABEL": "javafx.print",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javafx.print"
                 }
                 ,
 
@@ -953,22 +953,22 @@
                 ,
 
                 {
-                    "ID": "p.sun.plugin2.ipc",
-                    "LABEL": "sun.plugin2.ipc",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "sun.plugin2.ipc"
-                }
-                ,
-
-                {
                     "ID": "p.com.sun.javafx.cursor",
                     "LABEL": "com.sun.javafx.cursor",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "com.sun.javafx.cursor"
+                }
+                ,
+
+                {
+                    "ID": "p.sun.plugin2.ipc",
+                    "LABEL": "sun.plugin2.ipc",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "sun.plugin2.ipc"
                 }
                 ,
 
@@ -1173,22 +1173,22 @@
                 ,
 
                 {
-                    "ID": "p.com.sun.javafx.scene.layout",
-                    "LABEL": "com.sun.javafx.scene.layout",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "com.sun.javafx.scene.layout"
-                }
-                ,
-
-                {
                     "ID": "m.jdk.internal.ed",
                     "LABEL": "jdk.internal.ed",
                     "COLORVALUE": "navy",
                     "COLORLABEL": "Module",
                     "SIZEVALUE": "7",
                     "INFOSTRING": "jdk.internal.ed"
+                }
+                ,
+
+                {
+                    "ID": "p.com.sun.javafx.scene.layout",
+                    "LABEL": "com.sun.javafx.scene.layout",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "com.sun.javafx.scene.layout"
                 }
                 ,
 
@@ -1533,22 +1533,22 @@
                 ,
 
                 {
-                    "ID": "p.javax.swing.event",
-                    "LABEL": "javax.swing.event",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "javax.swing.event"
-                }
-                ,
-
-                {
                     "ID": "m.jdk.snmp",
                     "LABEL": "jdk.snmp",
                     "COLORVALUE": "navy",
                     "COLORLABEL": "Module",
                     "SIZEVALUE": "7",
                     "INFOSTRING": "jdk.snmp"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.swing.event",
+                    "LABEL": "javax.swing.event",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.swing.event"
                 }
                 ,
 
@@ -1573,22 +1573,22 @@
                 ,
 
                 {
-                    "ID": "p.javax.sql.rowset",
-                    "LABEL": "javax.sql.rowset",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "javax.sql.rowset"
-                }
-                ,
-
-                {
                     "ID": "p.com.sun.tools.javac.code",
                     "LABEL": "com.sun.tools.javac.code",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "com.sun.tools.javac.code"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.sql.rowset",
+                    "LABEL": "javax.sql.rowset",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.sql.rowset"
                 }
                 ,
 
@@ -1863,16 +1863,6 @@
                 ,
 
                 {
-                    "ID": "p.sun.jvmstat.monitor.event",
-                    "LABEL": "sun.jvmstat.monitor.event",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "sun.jvmstat.monitor.event"
-                }
-                ,
-
-                {
                     "ID": "p.com.sun.javafx.tools.resource",
                     "LABEL": "com.sun.javafx.tools.resource",
                     "COLORVALUE": "orange",
@@ -1883,12 +1873,12 @@
                 ,
 
                 {
-                    "ID": "p.sun.plugin2.uitoolkit.ui",
-                    "LABEL": "sun.plugin2.uitoolkit.ui",
+                    "ID": "p.sun.jvmstat.monitor.event",
+                    "LABEL": "sun.jvmstat.monitor.event",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
-                    "INFOSTRING": "sun.plugin2.uitoolkit.ui"
+                    "INFOSTRING": "sun.jvmstat.monitor.event"
                 }
                 ,
 
@@ -1899,6 +1889,16 @@
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "javax.lang.model"
+                }
+                ,
+
+                {
+                    "ID": "p.sun.plugin2.uitoolkit.ui",
+                    "LABEL": "sun.plugin2.uitoolkit.ui",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "sun.plugin2.uitoolkit.ui"
                 }
                 ,
 
@@ -1973,22 +1973,22 @@
                 ,
 
                 {
-                    "ID": "p.javax.xml.parsers",
-                    "LABEL": "javax.xml.parsers",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "javax.xml.parsers"
-                }
-                ,
-
-                {
                     "ID": "m.jdk.zipfs",
                     "LABEL": "jdk.zipfs",
                     "COLORVALUE": "navy",
                     "COLORLABEL": "Module",
                     "SIZEVALUE": "7",
                     "INFOSTRING": "jdk.zipfs"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.parsers",
+                    "LABEL": "javax.xml.parsers",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.parsers"
                 }
                 ,
 
@@ -2063,22 +2063,22 @@
                 ,
 
                 {
-                    "ID": "p.java.awt.font",
-                    "LABEL": "java.awt.font",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "java.awt.font"
-                }
-                ,
-
-                {
                     "ID": "m.jdk.security.auth",
                     "LABEL": "jdk.security.auth",
                     "COLORVALUE": "navy",
                     "COLORLABEL": "Module",
                     "SIZEVALUE": "7",
                     "INFOSTRING": "jdk.security.auth"
+                }
+                ,
+
+                {
+                    "ID": "p.java.awt.font",
+                    "LABEL": "java.awt.font",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.awt.font"
                 }
                 ,
 
@@ -2253,16 +2253,6 @@
                 ,
 
                 {
-                    "ID": "p.org.w3c.dom.bootstrap",
-                    "LABEL": "org.w3c.dom.bootstrap",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "org.w3c.dom.bootstrap"
-                }
-                ,
-
-                {
                     "ID": "p.javafx.beans.value",
                     "LABEL": "javafx.beans.value",
                     "COLORVALUE": "orange",
@@ -2273,12 +2263,12 @@
                 ,
 
                 {
-                    "ID": "p.jdk.management.resource.internal",
-                    "LABEL": "jdk.management.resource.internal",
+                    "ID": "p.org.w3c.dom.bootstrap",
+                    "LABEL": "org.w3c.dom.bootstrap",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
-                    "INFOSTRING": "jdk.management.resource.internal"
+                    "INFOSTRING": "org.w3c.dom.bootstrap"
                 }
                 ,
 
@@ -2293,12 +2283,12 @@
                 ,
 
                 {
-                    "ID": "p.com.sun.javaws.registration",
-                    "LABEL": "com.sun.javaws.registration",
+                    "ID": "p.jdk.management.resource.internal",
+                    "LABEL": "jdk.management.resource.internal",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
-                    "INFOSTRING": "com.sun.javaws.registration"
+                    "INFOSTRING": "jdk.management.resource.internal"
                 }
                 ,
 
@@ -2309,6 +2299,16 @@
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "org.w3c.dom.xpath"
+                }
+                ,
+
+                {
+                    "ID": "p.com.sun.javaws.registration",
+                    "LABEL": "com.sun.javaws.registration",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "com.sun.javaws.registration"
                 }
                 ,
 
@@ -2343,22 +2343,22 @@
                 ,
 
                 {
-                    "ID": "p.javafx.scene.paint",
-                    "LABEL": "javafx.scene.paint",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "javafx.scene.paint"
-                }
-                ,
-
-                {
                     "ID": "p.sun.security.krb5",
                     "LABEL": "sun.security.krb5",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "sun.security.krb5"
+                }
+                ,
+
+                {
+                    "ID": "p.javafx.scene.paint",
+                    "LABEL": "javafx.scene.paint",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javafx.scene.paint"
                 }
                 ,
 
@@ -2453,22 +2453,22 @@
                 ,
 
                 {
-                    "ID": "p.javafx.scene.shape",
-                    "LABEL": "javafx.scene.shape",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "javafx.scene.shape"
-                }
-                ,
-
-                {
                     "ID": "p.com.sun.deploy.association",
                     "LABEL": "com.sun.deploy.association",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "com.sun.deploy.association"
+                }
+                ,
+
+                {
+                    "ID": "p.javafx.scene.shape",
+                    "LABEL": "javafx.scene.shape",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javafx.scene.shape"
                 }
                 ,
 
@@ -2523,22 +2523,22 @@
                 ,
 
                 {
-                    "ID": "p.javax.xml.xpath",
-                    "LABEL": "javax.xml.xpath",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "javax.xml.xpath"
-                }
-                ,
-
-                {
                     "ID": "p.com.sun.javafx.beans",
                     "LABEL": "com.sun.javafx.beans",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "com.sun.javafx.beans"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.xpath",
+                    "LABEL": "javax.xml.xpath",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.xpath"
                 }
                 ,
 
@@ -2813,22 +2813,22 @@
                 ,
 
                 {
-                    "ID": "p.com.sun.javaws.ui",
-                    "LABEL": "com.sun.javaws.ui",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "com.sun.javaws.ui"
-                }
-                ,
-
-                {
                     "ID": "m.java.prefs",
                     "LABEL": "java.prefs",
                     "COLORVALUE": "blue",
                     "COLORLABEL": "Base module",
                     "SIZEVALUE": "10",
                     "INFOSTRING": "java.prefs"
+                }
+                ,
+
+                {
+                    "ID": "p.com.sun.javaws.ui",
+                    "LABEL": "com.sun.javaws.ui",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "com.sun.javaws.ui"
                 }
                 ,
 
@@ -2863,6 +2863,16 @@
                 ,
 
                 {
+                    "ID": "p.com.sun.tools.javac.file",
+                    "LABEL": "com.sun.tools.javac.file",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "com.sun.tools.javac.file"
+                }
+                ,
+
+                {
                     "ID": "p.jdk.jfr.consumer",
                     "LABEL": "jdk.jfr.consumer",
                     "COLORVALUE": "orange",
@@ -2879,16 +2889,6 @@
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "com.sun.javafx.reflect"
-                }
-                ,
-
-                {
-                    "ID": "p.com.sun.tools.javac.file",
-                    "LABEL": "com.sun.tools.javac.file",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "com.sun.tools.javac.file"
                 }
                 ,
 
@@ -3003,22 +3003,22 @@
                 ,
 
                 {
-                    "ID": "m.jdk.crypto.ec",
-                    "LABEL": "jdk.crypto.ec",
-                    "COLORVALUE": "navy",
-                    "COLORLABEL": "Module",
-                    "SIZEVALUE": "7",
-                    "INFOSTRING": "jdk.crypto.ec"
-                }
-                ,
-
-                {
                     "ID": "p.javax.security.auth.kerberos",
                     "LABEL": "javax.security.auth.kerberos",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "javax.security.auth.kerberos"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.crypto.ec",
+                    "LABEL": "jdk.crypto.ec",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.crypto.ec"
                 }
                 ,
 
@@ -3093,22 +3093,22 @@
                 ,
 
                 {
-                    "ID": "p.jdk.nashorn.api.scripting",
-                    "LABEL": "jdk.nashorn.api.scripting",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "jdk.nashorn.api.scripting"
-                }
-                ,
-
-                {
                     "ID": "p.java.net",
                     "LABEL": "java.net",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "java.net"
+                }
+                ,
+
+                {
+                    "ID": "p.jdk.nashorn.api.scripting",
+                    "LABEL": "jdk.nashorn.api.scripting",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "jdk.nashorn.api.scripting"
                 }
                 ,
 
@@ -3273,22 +3273,22 @@
                 ,
 
                 {
-                    "ID": "m.java.xml",
-                    "LABEL": "java.xml",
-                    "COLORVALUE": "navy",
-                    "COLORLABEL": "Module",
-                    "SIZEVALUE": "7",
-                    "INFOSTRING": "java.xml"
-                }
-                ,
-
-                {
                     "ID": "p.javax.naming.directory",
                     "LABEL": "javax.naming.directory",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "javax.naming.directory"
+                }
+                ,
+
+                {
+                    "ID": "m.java.xml",
+                    "LABEL": "java.xml",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "java.xml"
                 }
                 ,
 
@@ -3333,22 +3333,22 @@
                 ,
 
                 {
-                    "ID": "m.java.se",
-                    "LABEL": "java.se",
-                    "COLORVALUE": "navy",
-                    "COLORLABEL": "Module",
-                    "SIZEVALUE": "7",
-                    "INFOSTRING": "java.se"
-                }
-                ,
-
-                {
                     "ID": "p.jdk.javadoc.doclet",
                     "LABEL": "jdk.javadoc.doclet",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "jdk.javadoc.doclet"
+                }
+                ,
+
+                {
+                    "ID": "m.java.se",
+                    "LABEL": "java.se",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "java.se"
                 }
                 ,
 
@@ -3443,22 +3443,22 @@
                 ,
 
                 {
-                    "ID": "p.javax.lang.model.util",
-                    "LABEL": "javax.lang.model.util",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "javax.lang.model.util"
-                }
-                ,
-
-                {
                     "ID": "p.com.sun.deploy.cache",
                     "LABEL": "com.sun.deploy.cache",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "com.sun.deploy.cache"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.lang.model.util",
+                    "LABEL": "javax.lang.model.util",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.lang.model.util"
                 }
                 ,
 
@@ -3763,22 +3763,22 @@
                 ,
 
                 {
-                    "ID": "p.sun.security.provider.certpath",
-                    "LABEL": "sun.security.provider.certpath",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "sun.security.provider.certpath"
-                }
-                ,
-
-                {
                     "ID": "p.sun.security.internal.interfaces",
                     "LABEL": "sun.security.internal.interfaces",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "sun.security.internal.interfaces"
+                }
+                ,
+
+                {
+                    "ID": "p.sun.security.provider.certpath",
+                    "LABEL": "sun.security.provider.certpath",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "sun.security.provider.certpath"
                 }
                 ,
 
@@ -3903,22 +3903,22 @@
                 ,
 
                 {
-                    "ID": "p.javax.xml.stream",
-                    "LABEL": "javax.xml.stream",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "javax.xml.stream"
-                }
-                ,
-
-                {
                     "ID": "p.com.sun.deploy.net.proxy",
                     "LABEL": "com.sun.deploy.net.proxy",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "com.sun.deploy.net.proxy"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.stream",
+                    "LABEL": "javax.xml.stream",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.stream"
                 }
                 ,
 
@@ -3973,22 +3973,22 @@
                 ,
 
                 {
-                    "ID": "m.jdk.jdi",
-                    "LABEL": "jdk.jdi",
-                    "COLORVALUE": "navy",
-                    "COLORLABEL": "Module",
-                    "SIZEVALUE": "7",
-                    "INFOSTRING": "jdk.jdi"
-                }
-                ,
-
-                {
                     "ID": "p.java.awt.event",
                     "LABEL": "java.awt.event",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "java.awt.event"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.jdi",
+                    "LABEL": "jdk.jdi",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.jdi"
                 }
                 ,
 
@@ -4013,22 +4013,22 @@
                 ,
 
                 {
-                    "ID": "m.javafx.media",
-                    "LABEL": "javafx.media",
-                    "COLORVALUE": "navy",
-                    "COLORLABEL": "Module",
-                    "SIZEVALUE": "7",
-                    "INFOSTRING": "javafx.media"
-                }
-                ,
-
-                {
                     "ID": "m.jdk.jshell",
                     "LABEL": "jdk.jshell",
                     "COLORVALUE": "navy",
                     "COLORLABEL": "Module",
                     "SIZEVALUE": "7",
                     "INFOSTRING": "jdk.jshell"
+                }
+                ,
+
+                {
+                    "ID": "m.javafx.media",
+                    "LABEL": "javafx.media",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "javafx.media"
                 }
                 ,
 
@@ -4143,22 +4143,22 @@
                 ,
 
                 {
-                    "ID": "p.sun.plugin2.applet2",
-                    "LABEL": "sun.plugin2.applet2",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "sun.plugin2.applet2"
-                }
-                ,
-
-                {
                     "ID": "p.jdk.packager.services.singleton",
                     "LABEL": "jdk.packager.services.singleton",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "jdk.packager.services.singleton"
+                }
+                ,
+
+                {
+                    "ID": "p.sun.plugin2.applet2",
+                    "LABEL": "sun.plugin2.applet2",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "sun.plugin2.applet2"
                 }
                 ,
 
@@ -4203,22 +4203,22 @@
                 ,
 
                 {
-                    "ID": "p.com.sun.javafx.perf",
-                    "LABEL": "com.sun.javafx.perf",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "com.sun.javafx.perf"
-                }
-                ,
-
-                {
                     "ID": "p.jdk.dynalink",
                     "LABEL": "jdk.dynalink",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "jdk.dynalink"
+                }
+                ,
+
+                {
+                    "ID": "p.com.sun.javafx.perf",
+                    "LABEL": "com.sun.javafx.perf",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "com.sun.javafx.perf"
                 }
                 ,
 
@@ -4293,22 +4293,22 @@
                 ,
 
                 {
-                    "ID": "p.org.graalvm.compiler.api.replacements",
-                    "LABEL": "org.graalvm.compiler.api.replacements",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "org.graalvm.compiler.api.replacements"
-                }
-                ,
-
-                {
                     "ID": "p.sun.jvmstat.monitor.remote",
                     "LABEL": "sun.jvmstat.monitor.remote",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "sun.jvmstat.monitor.remote"
+                }
+                ,
+
+                {
+                    "ID": "p.org.graalvm.compiler.api.replacements",
+                    "LABEL": "org.graalvm.compiler.api.replacements",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.graalvm.compiler.api.replacements"
                 }
                 ,
 
@@ -4343,22 +4343,22 @@
                 ,
 
                 {
-                    "ID": "p.java.text.spi",
-                    "LABEL": "java.text.spi",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "java.text.spi"
-                }
-                ,
-
-                {
                     "ID": "p.jdk.internal.org.xml.sax.helpers",
                     "LABEL": "jdk.internal.org.xml.sax.helpers",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "jdk.internal.org.xml.sax.helpers"
+                }
+                ,
+
+                {
+                    "ID": "p.java.text.spi",
+                    "LABEL": "java.text.spi",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.text.spi"
                 }
                 ,
 
@@ -4393,22 +4393,22 @@
                 ,
 
                 {
-                    "ID": "m.java.management",
-                    "LABEL": "java.management",
-                    "COLORVALUE": "blue",
-                    "COLORLABEL": "Base module",
-                    "SIZEVALUE": "10",
-                    "INFOSTRING": "java.management"
-                }
-                ,
-
-                {
                     "ID": "p.com.sun.security.auth.module",
                     "LABEL": "com.sun.security.auth.module",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "com.sun.security.auth.module"
+                }
+                ,
+
+                {
+                    "ID": "m.java.management",
+                    "LABEL": "java.management",
+                    "COLORVALUE": "blue",
+                    "COLORLABEL": "Base module",
+                    "SIZEVALUE": "10",
+                    "INFOSTRING": "java.management"
                 }
                 ,
 
@@ -4433,22 +4433,22 @@
                 ,
 
                 {
-                    "ID": "p.org.graalvm.compiler.graph",
-                    "LABEL": "org.graalvm.compiler.graph",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "org.graalvm.compiler.graph"
-                }
-                ,
-
-                {
                     "ID": "p.org.graalvm.compiler.nodes.graphbuilderconf",
                     "LABEL": "org.graalvm.compiler.nodes.graphbuilderconf",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "org.graalvm.compiler.nodes.graphbuilderconf"
+                }
+                ,
+
+                {
+                    "ID": "p.org.graalvm.compiler.graph",
+                    "LABEL": "org.graalvm.compiler.graph",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.graalvm.compiler.graph"
                 }
                 ,
 
@@ -4533,12 +4533,12 @@
                 ,
 
                 {
-                    "ID": "m.java.sql.rowset",
-                    "LABEL": "java.sql.rowset",
-                    "COLORVALUE": "navy",
-                    "COLORLABEL": "Module",
-                    "SIZEVALUE": "7",
-                    "INFOSTRING": "java.sql.rowset"
+                    "ID": "p.javax.naming.ldap",
+                    "LABEL": "javax.naming.ldap",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.naming.ldap"
                 }
                 ,
 
@@ -4553,12 +4553,12 @@
                 ,
 
                 {
-                    "ID": "p.javax.naming.ldap",
-                    "LABEL": "javax.naming.ldap",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "javax.naming.ldap"
+                    "ID": "m.java.sql.rowset",
+                    "LABEL": "java.sql.rowset",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "java.sql.rowset"
                 }
                 ,
 
@@ -4593,22 +4593,22 @@
                 ,
 
                 {
-                    "ID": "p.javax.management.monitor",
-                    "LABEL": "javax.management.monitor",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "javax.management.monitor"
-                }
-                ,
-
-                {
                     "ID": "p.com.sun.deploy.uitoolkit.ui",
                     "LABEL": "com.sun.deploy.uitoolkit.ui",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "com.sun.deploy.uitoolkit.ui"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.management.monitor",
+                    "LABEL": "javax.management.monitor",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.management.monitor"
                 }
                 ,
 
@@ -4663,22 +4663,22 @@
                 ,
 
                 {
-                    "ID": "p.javafx.scene.chart",
-                    "LABEL": "javafx.scene.chart",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "javafx.scene.chart"
-                }
-                ,
-
-                {
                     "ID": "p.com.sun.nio.file",
                     "LABEL": "com.sun.nio.file",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "com.sun.nio.file"
+                }
+                ,
+
+                {
+                    "ID": "p.javafx.scene.chart",
+                    "LABEL": "javafx.scene.chart",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javafx.scene.chart"
                 }
                 ,
 
@@ -4743,22 +4743,22 @@
                 ,
 
                 {
-                    "ID": "p.com.sun.source.doctree",
-                    "LABEL": "com.sun.source.doctree",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "com.sun.source.doctree"
-                }
-                ,
-
-                {
                     "ID": "p.com.sun.deploy.config",
                     "LABEL": "com.sun.deploy.config",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "com.sun.deploy.config"
+                }
+                ,
+
+                {
+                    "ID": "p.com.sun.source.doctree",
+                    "LABEL": "com.sun.source.doctree",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "com.sun.source.doctree"
                 }
                 ,
 
@@ -4803,22 +4803,22 @@
                 ,
 
                 {
-                    "ID": "m.jdk.internal.jvmstat",
-                    "LABEL": "jdk.internal.jvmstat",
-                    "COLORVALUE": "navy",
-                    "COLORLABEL": "Module",
-                    "SIZEVALUE": "7",
-                    "INFOSTRING": "jdk.internal.jvmstat"
-                }
-                ,
-
-                {
                     "ID": "m.jdk.management.resource",
                     "LABEL": "jdk.management.resource",
                     "COLORVALUE": "navy",
                     "COLORLABEL": "Module",
                     "SIZEVALUE": "7",
                     "INFOSTRING": "jdk.management.resource"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.internal.jvmstat",
+                    "LABEL": "jdk.internal.jvmstat",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.internal.jvmstat"
                 }
                 ,
 
@@ -4853,16 +4853,6 @@
                 ,
 
                 {
-                    "ID": "p.javax.transaction.xa",
-                    "LABEL": "javax.transaction.xa",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "javax.transaction.xa"
-                }
-                ,
-
-                {
                     "ID": "p.jdk.dynalink.support",
                     "LABEL": "jdk.dynalink.support",
                     "COLORVALUE": "orange",
@@ -4879,6 +4869,16 @@
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "jdk.dynalink.linker"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.transaction.xa",
+                    "LABEL": "javax.transaction.xa",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.transaction.xa"
                 }
                 ,
 
@@ -4973,22 +4973,22 @@
                 ,
 
                 {
-                    "ID": "p.javax.management.remote",
-                    "LABEL": "javax.management.remote",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "javax.management.remote"
-                }
-                ,
-
-                {
                     "ID": "p.com.sun.deploy.ui",
                     "LABEL": "com.sun.deploy.ui",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "com.sun.deploy.ui"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.management.remote",
+                    "LABEL": "javax.management.remote",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.management.remote"
                 }
                 ,
 
@@ -5023,16 +5023,6 @@
                 ,
 
                 {
-                    "ID": "m.jdk.plugin",
-                    "LABEL": "jdk.plugin",
-                    "COLORVALUE": "navy",
-                    "COLORLABEL": "Module",
-                    "SIZEVALUE": "7",
-                    "INFOSTRING": "jdk.plugin"
-                }
-                ,
-
-                {
                     "ID": "m.jdk.jdwp.agent",
                     "LABEL": "jdk.jdwp.agent",
                     "COLORVALUE": "navy",
@@ -5043,12 +5033,12 @@
                 ,
 
                 {
-                    "ID": "p.javax.xml.transform.dom",
-                    "LABEL": "javax.xml.transform.dom",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "javax.xml.transform.dom"
+                    "ID": "m.jdk.plugin",
+                    "LABEL": "jdk.plugin",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.plugin"
                 }
                 ,
 
@@ -5059,6 +5049,16 @@
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "jdk.security.jarsigner"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.xml.transform.dom",
+                    "LABEL": "javax.xml.transform.dom",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.xml.transform.dom"
                 }
                 ,
 
@@ -5113,22 +5113,22 @@
                 ,
 
                 {
-                    "ID": "p.com.sun.javaws.util",
-                    "LABEL": "com.sun.javaws.util",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "com.sun.javaws.util"
-                }
-                ,
-
-                {
                     "ID": "m.jdk.dynalink",
                     "LABEL": "jdk.dynalink",
                     "COLORVALUE": "navy",
                     "COLORLABEL": "Module",
                     "SIZEVALUE": "7",
                     "INFOSTRING": "jdk.dynalink"
+                }
+                ,
+
+                {
+                    "ID": "p.com.sun.javaws.util",
+                    "LABEL": "com.sun.javaws.util",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "com.sun.javaws.util"
                 }
                 ,
 
@@ -5553,22 +5553,22 @@
                 ,
 
                 {
-                    "ID": "p.sun.plugin.services",
-                    "LABEL": "sun.plugin.services",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "sun.plugin.services"
-                }
-                ,
-
-                {
                     "ID": "p.javax.management.remote.rmi",
                     "LABEL": "javax.management.remote.rmi",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "javax.management.remote.rmi"
+                }
+                ,
+
+                {
+                    "ID": "p.sun.plugin.services",
+                    "LABEL": "sun.plugin.services",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "sun.plugin.services"
                 }
                 ,
 
@@ -5643,22 +5643,22 @@
                 ,
 
                 {
-                    "ID": "p.com.sun.javafx.scene.text",
-                    "LABEL": "com.sun.javafx.scene.text",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "com.sun.javafx.scene.text"
-                }
-                ,
-
-                {
                     "ID": "m.jdk.packager.services",
                     "LABEL": "jdk.packager.services",
                     "COLORVALUE": "navy",
                     "COLORLABEL": "Module",
                     "SIZEVALUE": "7",
                     "INFOSTRING": "jdk.packager.services"
+                }
+                ,
+
+                {
+                    "ID": "p.com.sun.javafx.scene.text",
+                    "LABEL": "com.sun.javafx.scene.text",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "com.sun.javafx.scene.text"
                 }
                 ,
 
@@ -5713,22 +5713,22 @@
                 ,
 
                 {
-                    "ID": "p.java.applet",
-                    "LABEL": "java.applet",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "java.applet"
-                }
-                ,
-
-                {
                     "ID": "p.com.oracle.nio",
                     "LABEL": "com.oracle.nio",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "com.oracle.nio"
+                }
+                ,
+
+                {
+                    "ID": "p.java.applet",
+                    "LABEL": "java.applet",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "java.applet"
                 }
                 ,
 
@@ -5753,22 +5753,22 @@
                 ,
 
                 {
-                    "ID": "m.jdk.scripting.nashorn",
-                    "LABEL": "jdk.scripting.nashorn",
-                    "COLORVALUE": "navy",
-                    "COLORLABEL": "Module",
-                    "SIZEVALUE": "7",
-                    "INFOSTRING": "jdk.scripting.nashorn"
-                }
-                ,
-
-                {
                     "ID": "p.com.sun.tools.javac",
                     "LABEL": "com.sun.tools.javac",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "com.sun.tools.javac"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.scripting.nashorn",
+                    "LABEL": "jdk.scripting.nashorn",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.scripting.nashorn"
                 }
                 ,
 
@@ -5903,22 +5903,22 @@
                 ,
 
                 {
-                    "ID": "p.org.graalvm.compiler.api.runtime",
-                    "LABEL": "org.graalvm.compiler.api.runtime",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "org.graalvm.compiler.api.runtime"
-                }
-                ,
-
-                {
                     "ID": "p.javax.xml.crypto.dsig.spec",
                     "LABEL": "javax.xml.crypto.dsig.spec",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "javax.xml.crypto.dsig.spec"
+                }
+                ,
+
+                {
+                    "ID": "p.org.graalvm.compiler.api.runtime",
+                    "LABEL": "org.graalvm.compiler.api.runtime",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.graalvm.compiler.api.runtime"
                 }
                 ,
 
@@ -6073,22 +6073,22 @@
                 ,
 
                 {
-                    "ID": "p.javax.swing",
-                    "LABEL": "javax.swing",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "javax.swing"
-                }
-                ,
-
-                {
                     "ID": "p.jdk.internal.shellsupport.doc",
                     "LABEL": "jdk.internal.shellsupport.doc",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "jdk.internal.shellsupport.doc"
+                }
+                ,
+
+                {
+                    "ID": "p.javax.swing",
+                    "LABEL": "javax.swing",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "javax.swing"
                 }
                 ,
 
@@ -6123,22 +6123,22 @@
                 ,
 
                 {
-                    "ID": "m.jdk.internal.vm.compiler.management",
-                    "LABEL": "jdk.internal.vm.compiler.management",
-                    "COLORVALUE": "navy",
-                    "COLORLABEL": "Module",
-                    "SIZEVALUE": "7",
-                    "INFOSTRING": "jdk.internal.vm.compiler.management"
-                }
-                ,
-
-                {
                     "ID": "p.javafx.scene.control.cell",
                     "LABEL": "javafx.scene.control.cell",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "javafx.scene.control.cell"
+                }
+                ,
+
+                {
+                    "ID": "m.jdk.internal.vm.compiler.management",
+                    "LABEL": "jdk.internal.vm.compiler.management",
+                    "COLORVALUE": "navy",
+                    "COLORLABEL": "Module",
+                    "SIZEVALUE": "7",
+                    "INFOSTRING": "jdk.internal.vm.compiler.management"
                 }
                 ,
 
@@ -6153,22 +6153,22 @@
                 ,
 
                 {
-                    "ID": "p.org.graalvm.compiler.debug",
-                    "LABEL": "org.graalvm.compiler.debug",
-                    "COLORVALUE": "orange",
-                    "COLORLABEL": "Package",
-                    "SIZEVALUE": "3",
-                    "INFOSTRING": "org.graalvm.compiler.debug"
-                }
-                ,
-
-                {
                     "ID": "p.com.sun.deploy",
                     "LABEL": "com.sun.deploy",
                     "COLORVALUE": "orange",
                     "COLORLABEL": "Package",
                     "SIZEVALUE": "3",
                     "INFOSTRING": "com.sun.deploy"
+                }
+                ,
+
+                {
+                    "ID": "p.org.graalvm.compiler.debug",
+                    "LABEL": "org.graalvm.compiler.debug",
+                    "COLORVALUE": "orange",
+                    "COLORLABEL": "Package",
+                    "SIZEVALUE": "3",
+                    "INFOSTRING": "org.graalvm.compiler.debug"
                 }
                 ,
 
@@ -6566,14 +6566,6 @@
                 }
                 ,
                 {
-                    "FROMID": "m.javafx.base",
-                    "TOID": "p.com.sun.javafx.logging",
-                    "STYLE": "solid",
-                    "INFOSTRING": "Exports qualified",
-                    "COLOR": "red"
-                }
-                ,
-                {
                     "FROMID": "p.com.sun.deploy.util",
                     "TOID": "m.jdk.javaws",
                     "STYLE": "dotted",
@@ -6582,11 +6574,11 @@
                 }
                 ,
                 {
-                    "FROMID": "p.sun.plugin2.main.client",
-                    "TOID": "m.jdk.plugin.server",
-                    "STYLE": "dotted",
-                    "INFOSTRING": "Exported for",
-                    "COLOR": "orange"
+                    "FROMID": "m.javafx.base",
+                    "TOID": "p.com.sun.javafx.logging",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports qualified",
+                    "COLOR": "red"
                 }
                 ,
                 {
@@ -6598,16 +6590,24 @@
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.internal.vm.compiler",
-                    "TOID": "p.org.graalvm.compiler.nodes.graphbuilderconf",
+                    "FROMID": "p.sun.plugin2.main.client",
+                    "TOID": "m.jdk.plugin.server",
+                    "STYLE": "dotted",
+                    "INFOSTRING": "Exported for",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.compiler",
+                    "TOID": "p.com.sun.tools.javac.model",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports qualified",
                     "COLOR": "red"
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.compiler",
-                    "TOID": "p.com.sun.tools.javac.model",
+                    "FROMID": "m.jdk.internal.vm.compiler",
+                    "TOID": "p.org.graalvm.compiler.nodes.graphbuilderconf",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports qualified",
                     "COLOR": "red"
@@ -6694,19 +6694,19 @@
                 }
                 ,
                 {
-                    "FROMID": "p.jdk.internal.misc",
-                    "TOID": "m.javafx.graphics",
-                    "STYLE": "dotted",
-                    "INFOSTRING": "Exported for",
-                    "COLOR": "orange"
-                }
-                ,
-                {
                     "FROMID": "m.java.base",
                     "TOID": "p.java.security.acl",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports",
                     "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "p.jdk.internal.misc",
+                    "TOID": "m.javafx.graphics",
+                    "STYLE": "dotted",
+                    "INFOSTRING": "Exported for",
+                    "COLOR": "orange"
                 }
                 ,
                 {
@@ -6774,16 +6774,16 @@
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.scripting.nashorn",
-                    "TOID": "p.jdk.nashorn.internal.objects",
+                    "FROMID": "m.jdk.deploy",
+                    "TOID": "p.com.sun.deploy.net.protocol.https",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports qualified",
                     "COLOR": "red"
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.deploy",
-                    "TOID": "p.com.sun.deploy.net.protocol.https",
+                    "FROMID": "m.jdk.scripting.nashorn",
+                    "TOID": "p.jdk.nashorn.internal.objects",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports qualified",
                     "COLOR": "red"
@@ -6966,19 +6966,19 @@
                 }
                 ,
                 {
-                    "FROMID": "m.java.desktop",
-                    "TOID": "p.sun.awt",
-                    "STYLE": "solid",
-                    "INFOSTRING": "Exports qualified",
-                    "COLOR": "red"
-                }
-                ,
-                {
                     "FROMID": "p.com.sun.applet2",
                     "TOID": "m.jdk.javaws",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.java.desktop",
+                    "TOID": "p.sun.awt",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports qualified",
+                    "COLOR": "red"
                 }
                 ,
                 {
@@ -7014,16 +7014,16 @@
                 }
                 ,
                 {
-                    "FROMID": "p.com.sun.media.jfxmedia.events",
-                    "TOID": "m.javafx.web",
+                    "FROMID": "p.com.sun.deploy.net",
+                    "TOID": "m.jdk.plugin",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
                 }
                 ,
                 {
-                    "FROMID": "p.com.sun.deploy.net",
-                    "TOID": "m.jdk.plugin",
+                    "FROMID": "p.com.sun.media.jfxmedia.events",
+                    "TOID": "m.javafx.web",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
@@ -7206,16 +7206,16 @@
                 }
                 ,
                 {
-                    "FROMID": "m.java.desktop",
-                    "TOID": "p.javax.accessibility",
+                    "FROMID": "m.java.prefs",
+                    "TOID": "p.java.util.prefs",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports",
                     "COLOR": "gray"
                 }
                 ,
                 {
-                    "FROMID": "m.java.prefs",
-                    "TOID": "p.java.util.prefs",
+                    "FROMID": "m.java.desktop",
+                    "TOID": "p.javax.accessibility",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports",
                     "COLOR": "gray"
@@ -7302,19 +7302,19 @@
                 }
                 ,
                 {
-                    "FROMID": "m.java.desktop",
-                    "TOID": "p.sun.swing",
-                    "STYLE": "solid",
-                    "INFOSTRING": "Exports qualified",
-                    "COLOR": "red"
-                }
-                ,
-                {
                     "FROMID": "p.com.sun.javafx.collections",
                     "TOID": "m.javafx.controls",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.java.desktop",
+                    "TOID": "p.sun.swing",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports qualified",
+                    "COLOR": "red"
                 }
                 ,
                 {
@@ -7366,19 +7366,19 @@
                 }
                 ,
                 {
-                    "FROMID": "m.java.base",
-                    "TOID": "p.sun.net.sdp",
-                    "STYLE": "solid",
-                    "INFOSTRING": "Exports qualified",
-                    "COLOR": "red"
-                }
-                ,
-                {
                     "FROMID": "p.jdk.internal.org.objectweb.asm.tree",
                     "TOID": "m.jdk.jlink",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.java.base",
+                    "TOID": "p.sun.net.sdp",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports qualified",
+                    "COLOR": "red"
                 }
                 ,
                 {
@@ -7598,7 +7598,7 @@
                 }
                 ,
                 {
-                    "FROMID": "p.jdk.internal.org.objectweb.asm.tree",
+                    "FROMID": "p.jdk.internal.module",
                     "TOID": "m.jdk.jfr",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
@@ -7606,7 +7606,7 @@
                 }
                 ,
                 {
-                    "FROMID": "p.jdk.internal.module",
+                    "FROMID": "p.jdk.internal.org.objectweb.asm.tree",
                     "TOID": "m.jdk.jfr",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
@@ -7638,19 +7638,19 @@
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.scripting.nashorn",
-                    "TOID": "p.jdk.nashorn.api.tree",
-                    "STYLE": "solid",
-                    "INFOSTRING": "Exports",
-                    "COLOR": "gray"
-                }
-                ,
-                {
                     "FROMID": "p.com.sun.deploy.association",
                     "TOID": "m.jdk.javaws",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.scripting.nashorn",
+                    "TOID": "p.jdk.nashorn.api.tree",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "gray"
                 }
                 ,
                 {
@@ -7678,16 +7678,16 @@
                 }
                 ,
                 {
-                    "FROMID": "p.sun.plugin2.main.client",
-                    "TOID": "m.javafx.deploy",
+                    "FROMID": "p.sun.plugin2.ipc",
+                    "TOID": "m.jdk.plugin.server",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
                 }
                 ,
                 {
-                    "FROMID": "p.sun.plugin2.ipc",
-                    "TOID": "m.jdk.plugin.server",
+                    "FROMID": "p.sun.plugin2.main.client",
+                    "TOID": "m.javafx.deploy",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
@@ -7918,19 +7918,19 @@
                 }
                 ,
                 {
-                    "FROMID": "p.com.sun.javafx.collections",
-                    "TOID": "m.javafx.media",
-                    "STYLE": "dotted",
-                    "INFOSTRING": "Exported for",
-                    "COLOR": "orange"
-                }
-                ,
-                {
                     "FROMID": "m.jdk.deploy",
                     "TOID": "p.com.sun.deploy.uitoolkit",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports qualified",
                     "COLOR": "red"
+                }
+                ,
+                {
+                    "FROMID": "p.com.sun.javafx.collections",
+                    "TOID": "m.javafx.media",
+                    "STYLE": "dotted",
+                    "INFOSTRING": "Exported for",
+                    "COLOR": "orange"
                 }
                 ,
                 {
@@ -8022,19 +8022,19 @@
                 }
                 ,
                 {
-                    "FROMID": "m.java.desktop",
-                    "TOID": "p.javax.print",
-                    "STYLE": "solid",
-                    "INFOSTRING": "Exports",
-                    "COLOR": "gray"
-                }
-                ,
-                {
                     "FROMID": "p.com.sun.deploy.net.proxy",
                     "TOID": "m.jdk.plugin",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.java.desktop",
+                    "TOID": "p.javax.print",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "gray"
                 }
                 ,
                 {
@@ -8062,16 +8062,16 @@
                 }
                 ,
                 {
-                    "FROMID": "m.javafx.base",
-                    "TOID": "p.javafx.util",
+                    "FROMID": "m.jdk.security.auth",
+                    "TOID": "p.com.sun.security.auth.callback",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports",
                     "COLOR": "gray"
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.security.auth",
-                    "TOID": "p.com.sun.security.auth.callback",
+                    "FROMID": "m.javafx.base",
+                    "TOID": "p.javafx.util",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports",
                     "COLOR": "gray"
@@ -8102,16 +8102,16 @@
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.internal.vm.compiler",
-                    "TOID": "p.org.graalvm.compiler.api.directives",
+                    "FROMID": "m.jdk.deploy",
+                    "TOID": "p.com.sun.deploy.resources",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports qualified",
                     "COLOR": "red"
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.deploy",
-                    "TOID": "p.com.sun.deploy.resources",
+                    "FROMID": "m.jdk.internal.vm.compiler",
+                    "TOID": "p.org.graalvm.compiler.api.directives",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports qualified",
                     "COLOR": "red"
@@ -8294,19 +8294,19 @@
                 }
                 ,
                 {
-                    "FROMID": "m.java.xml",
-                    "TOID": "p.com.sun.org.apache.xpath.internal.res",
-                    "STYLE": "solid",
-                    "INFOSTRING": "Exports qualified",
-                    "COLOR": "red"
-                }
-                ,
-                {
                     "FROMID": "p.com.sun.javafx.media",
                     "TOID": "m.javafx.web",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.java.xml",
+                    "TOID": "p.com.sun.org.apache.xpath.internal.res",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports qualified",
+                    "COLOR": "red"
                 }
                 ,
                 {
@@ -8390,19 +8390,19 @@
                 }
                 ,
                 {
-                    "FROMID": "m.java.xml",
-                    "TOID": "p.javax.xml.namespace",
-                    "STYLE": "solid",
-                    "INFOSTRING": "Exports",
-                    "COLOR": "gray"
-                }
-                ,
-                {
                     "FROMID": "m.javafx.base",
                     "TOID": "p.com.sun.javafx.reflect",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports qualified",
                     "COLOR": "red"
+                }
+                ,
+                {
+                    "FROMID": "m.java.xml",
+                    "TOID": "p.javax.xml.namespace",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "gray"
                 }
                 ,
                 {
@@ -8422,14 +8422,6 @@
                 }
                 ,
                 {
-                    "FROMID": "m.java.naming",
-                    "TOID": "p.javax.naming.directory",
-                    "STYLE": "solid",
-                    "INFOSTRING": "Exports",
-                    "COLOR": "gray"
-                }
-                ,
-                {
                     "FROMID": "p.com.sun.javafx.perf",
                     "TOID": "m.javafx.deploy",
                     "STYLE": "dotted",
@@ -8438,11 +8430,11 @@
                 }
                 ,
                 {
-                    "FROMID": "p.jdk.internal.jline.internal",
-                    "TOID": "m.jdk.scripting.nashorn.shell",
-                    "STYLE": "dotted",
-                    "INFOSTRING": "Exported for",
-                    "COLOR": "orange"
+                    "FROMID": "m.java.naming",
+                    "TOID": "p.javax.naming.directory",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "gray"
                 }
                 ,
                 {
@@ -8454,8 +8446,8 @@
                 }
                 ,
                 {
-                    "FROMID": "p.sun.rmi.server",
-                    "TOID": "m.jdk.jconsole",
+                    "FROMID": "p.jdk.internal.jline.internal",
+                    "TOID": "m.jdk.scripting.nashorn.shell",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
@@ -8467,6 +8459,14 @@
                     "STYLE": "solid",
                     "INFOSTRING": "Exports",
                     "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "p.sun.rmi.server",
+                    "TOID": "m.jdk.jconsole",
+                    "STYLE": "dotted",
+                    "INFOSTRING": "Exported for",
+                    "COLOR": "orange"
                 }
                 ,
                 {
@@ -8598,19 +8598,19 @@
                 }
                 ,
                 {
-                    "FROMID": "p.com.sun.javafx.tk",
-                    "TOID": "m.javafx.deploy",
-                    "STYLE": "dotted",
-                    "INFOSTRING": "Exported for",
-                    "COLOR": "orange"
-                }
-                ,
-                {
                     "FROMID": "m.jdk.deploy",
                     "TOID": "p.com.sun.deploy.ui",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports qualified",
                     "COLOR": "red"
+                }
+                ,
+                {
+                    "FROMID": "p.com.sun.javafx.tk",
+                    "TOID": "m.javafx.deploy",
+                    "STYLE": "dotted",
+                    "INFOSTRING": "Exported for",
+                    "COLOR": "orange"
                 }
                 ,
                 {
@@ -8638,6 +8638,14 @@
                 }
                 ,
                 {
+                    "FROMID": "p.com.sun.prism.paint",
+                    "TOID": "m.javafx.web",
+                    "STYLE": "dotted",
+                    "INFOSTRING": "Exported for",
+                    "COLOR": "orange"
+                }
+                ,
+                {
                     "FROMID": "p.sun.plugin2.message",
                     "TOID": "m.javafx.deploy",
                     "STYLE": "dotted",
@@ -8646,8 +8654,8 @@
                 }
                 ,
                 {
-                    "FROMID": "p.com.sun.prism.paint",
-                    "TOID": "m.javafx.web",
+                    "FROMID": "p.jdk.internal.instrumentation",
+                    "TOID": "m.jdk.jfr",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
@@ -8659,14 +8667,6 @@
                     "STYLE": "solid",
                     "INFOSTRING": "Exports",
                     "COLOR": "gray"
-                }
-                ,
-                {
-                    "FROMID": "p.jdk.internal.instrumentation",
-                    "TOID": "m.jdk.jfr",
-                    "STYLE": "dotted",
-                    "INFOSTRING": "Exported for",
-                    "COLOR": "orange"
                 }
                 ,
                 {
@@ -8838,11 +8838,11 @@
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.accessibility",
-                    "TOID": "p.com.sun.java.accessibility.util",
-                    "STYLE": "solid",
-                    "INFOSTRING": "Exports",
-                    "COLOR": "gray"
+                    "FROMID": "p.com.sun.javafx.application",
+                    "TOID": "m.java.base",
+                    "STYLE": "dotted",
+                    "INFOSTRING": "Exported for",
+                    "COLOR": "orange"
                 }
                 ,
                 {
@@ -8854,11 +8854,11 @@
                 }
                 ,
                 {
-                    "FROMID": "p.com.sun.javafx.application",
-                    "TOID": "m.java.base",
-                    "STYLE": "dotted",
-                    "INFOSTRING": "Exported for",
-                    "COLOR": "orange"
+                    "FROMID": "m.jdk.accessibility",
+                    "TOID": "p.com.sun.java.accessibility.util",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "gray"
                 }
                 ,
                 {
@@ -8886,19 +8886,19 @@
                 }
                 ,
                 {
-                    "FROMID": "m.java.desktop",
-                    "TOID": "p.javax.swing.undo",
-                    "STYLE": "solid",
-                    "INFOSTRING": "Exports",
-                    "COLOR": "gray"
-                }
-                ,
-                {
                     "FROMID": "m.jdk.deploy",
                     "TOID": "p.com.sun.applet2",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports qualified",
                     "COLOR": "red"
+                }
+                ,
+                {
+                    "FROMID": "m.java.desktop",
+                    "TOID": "p.javax.swing.undo",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "gray"
                 }
                 ,
                 {
@@ -8950,6 +8950,14 @@
                 }
                 ,
                 {
+                    "FROMID": "m.jdk.deploy",
+                    "TOID": "p.com.sun.deploy.si",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports qualified",
+                    "COLOR": "red"
+                }
+                ,
+                {
                     "FROMID": "m.jdk.plugin",
                     "TOID": "p.sun.plugin2.main.client",
                     "STYLE": "solid",
@@ -8960,14 +8968,6 @@
                 {
                     "FROMID": "m.javafx.media",
                     "TOID": "p.com.sun.media.jfxmedia.track",
-                    "STYLE": "solid",
-                    "INFOSTRING": "Exports qualified",
-                    "COLOR": "red"
-                }
-                ,
-                {
-                    "FROMID": "m.jdk.deploy",
-                    "TOID": "p.com.sun.deploy.si",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports qualified",
                     "COLOR": "red"
@@ -9030,6 +9030,14 @@
                 }
                 ,
                 {
+                    "FROMID": "p.com.sun.tools.javac.api",
+                    "TOID": "m.jdk.jshell",
+                    "STYLE": "dotted",
+                    "INFOSTRING": "Exported for",
+                    "COLOR": "orange"
+                }
+                ,
+                {
                     "FROMID": "p.com.sun.javaws.ui",
                     "TOID": "m.jdk.plugin",
                     "STYLE": "dotted",
@@ -9038,8 +9046,8 @@
                 }
                 ,
                 {
-                    "FROMID": "p.com.sun.tools.javac.api",
-                    "TOID": "m.jdk.jshell",
+                    "FROMID": "p.sun.management",
+                    "TOID": "m.jdk.jconsole",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
@@ -9054,19 +9062,11 @@
                 }
                 ,
                 {
-                    "FROMID": "p.sun.management",
-                    "TOID": "m.jdk.jconsole",
-                    "STYLE": "dotted",
-                    "INFOSTRING": "Exported for",
-                    "COLOR": "orange"
-                }
-                ,
-                {
-                    "FROMID": "m.java.desktop",
-                    "TOID": "p.javax.imageio.plugins.bmp",
+                    "FROMID": "m.jdk.deploy",
+                    "TOID": "p.com.sun.deploy.xml",
                     "STYLE": "solid",
-                    "INFOSTRING": "Exports",
-                    "COLOR": "gray"
+                    "INFOSTRING": "Exports qualified",
+                    "COLOR": "red"
                 }
                 ,
                 {
@@ -9078,11 +9078,11 @@
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.deploy",
-                    "TOID": "p.com.sun.deploy.xml",
+                    "FROMID": "m.java.desktop",
+                    "TOID": "p.javax.imageio.plugins.bmp",
                     "STYLE": "solid",
-                    "INFOSTRING": "Exports qualified",
-                    "COLOR": "red"
+                    "INFOSTRING": "Exports",
+                    "COLOR": "gray"
                 }
                 ,
                 {
@@ -9278,8 +9278,8 @@
                 }
                 ,
                 {
-                    "FROMID": "m.oracle.desktop",
-                    "TOID": "p.com.oracle.awt",
+                    "FROMID": "m.jdk.jshell",
+                    "TOID": "p.jdk.jshell.tool",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports",
                     "COLOR": "gray"
@@ -9294,19 +9294,11 @@
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.jshell",
-                    "TOID": "p.jdk.jshell.tool",
+                    "FROMID": "m.oracle.desktop",
+                    "TOID": "p.com.oracle.awt",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports",
                     "COLOR": "gray"
-                }
-                ,
-                {
-                    "FROMID": "p.com.sun.deploy.association.utility",
-                    "TOID": "m.jdk.javaws",
-                    "STYLE": "dotted",
-                    "INFOSTRING": "Exported for",
-                    "COLOR": "orange"
                 }
                 ,
                 {
@@ -9315,6 +9307,14 @@
                     "STYLE": "solid",
                     "INFOSTRING": "Exports qualified",
                     "COLOR": "red"
+                }
+                ,
+                {
+                    "FROMID": "p.com.sun.deploy.association.utility",
+                    "TOID": "m.jdk.javaws",
+                    "STYLE": "dotted",
+                    "INFOSTRING": "Exported for",
+                    "COLOR": "orange"
                 }
                 ,
                 {
@@ -9366,19 +9366,19 @@
                 }
                 ,
                 {
-                    "FROMID": "p.org.graalvm.compiler.hotspot.stubs",
-                    "TOID": "m.jdk.aot",
-                    "STYLE": "dotted",
-                    "INFOSTRING": "Exported for",
-                    "COLOR": "orange"
-                }
-                ,
-                {
                     "FROMID": "m.jdk.compiler",
                     "TOID": "p.com.sun.source.util",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports",
                     "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "p.org.graalvm.compiler.hotspot.stubs",
+                    "TOID": "m.jdk.aot",
+                    "STYLE": "dotted",
+                    "INFOSTRING": "Exported for",
+                    "COLOR": "orange"
                 }
                 ,
                 {
@@ -9430,16 +9430,16 @@
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.internal.vm.compiler",
-                    "TOID": "p.org.graalvm.compiler.lir.phases",
+                    "FROMID": "m.jdk.compiler",
+                    "TOID": "p.com.sun.tools.javac.util",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports qualified",
                     "COLOR": "red"
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.compiler",
-                    "TOID": "p.com.sun.tools.javac.util",
+                    "FROMID": "m.jdk.internal.vm.compiler",
+                    "TOID": "p.org.graalvm.compiler.lir.phases",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports qualified",
                     "COLOR": "red"
@@ -9702,14 +9702,6 @@
                 }
                 ,
                 {
-                    "FROMID": "m.java.base",
-                    "TOID": "p.sun.nio.cs",
-                    "STYLE": "solid",
-                    "INFOSTRING": "Exports qualified",
-                    "COLOR": "red"
-                }
-                ,
-                {
                     "FROMID": "p.jdk.internal.perf",
                     "TOID": "m.jdk.management.agent",
                     "STYLE": "dotted",
@@ -9718,16 +9710,24 @@
                 }
                 ,
                 {
-                    "FROMID": "p.com.sun.javafx.stage",
-                    "TOID": "m.javafx.controls",
+                    "FROMID": "m.java.base",
+                    "TOID": "p.sun.nio.cs",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports qualified",
+                    "COLOR": "red"
+                }
+                ,
+                {
+                    "FROMID": "p.com.sun.deploy.appcontext",
+                    "TOID": "m.javafx.deploy",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
                 }
                 ,
                 {
-                    "FROMID": "p.com.sun.deploy.appcontext",
-                    "TOID": "m.javafx.deploy",
+                    "FROMID": "p.com.sun.javafx.stage",
+                    "TOID": "m.javafx.controls",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
@@ -9798,16 +9798,16 @@
                 }
                 ,
                 {
-                    "FROMID": "p.com.sun.deploy.net.protocol.https",
-                    "TOID": "m.java.base",
+                    "FROMID": "p.com.sun.deploy.nativesandbox",
+                    "TOID": "m.jdk.javaws",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
                 }
                 ,
                 {
-                    "FROMID": "p.com.sun.deploy.nativesandbox",
-                    "TOID": "m.jdk.javaws",
+                    "FROMID": "p.com.sun.deploy.net.protocol.https",
+                    "TOID": "m.java.base",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
@@ -9846,16 +9846,16 @@
                 }
                 ,
                 {
-                    "FROMID": "p.org.graalvm.compiler.java",
-                    "TOID": "m.jdk.aot",
+                    "FROMID": "p.com.sun.deploy.net.protocol.chrome",
+                    "TOID": "m.java.base",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
                 }
                 ,
                 {
-                    "FROMID": "p.com.sun.deploy.net.protocol.chrome",
-                    "TOID": "m.java.base",
+                    "FROMID": "p.org.graalvm.compiler.java",
+                    "TOID": "m.jdk.aot",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
@@ -10006,19 +10006,19 @@
                 }
                 ,
                 {
-                    "FROMID": "p.sun.plugin2.message",
-                    "TOID": "m.jdk.plugin.server",
-                    "STYLE": "dotted",
-                    "INFOSTRING": "Exported for",
-                    "COLOR": "orange"
-                }
-                ,
-                {
                     "FROMID": "m.jdk.deploy",
                     "TOID": "p.com.sun.deploy.net.protocol.jar",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports qualified",
                     "COLOR": "red"
+                }
+                ,
+                {
+                    "FROMID": "p.sun.plugin2.message",
+                    "TOID": "m.jdk.plugin.server",
+                    "STYLE": "dotted",
+                    "INFOSTRING": "Exported for",
+                    "COLOR": "orange"
                 }
                 ,
                 {
@@ -10398,16 +10398,16 @@
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.internal.vm.compiler",
-                    "TOID": "p.org.graalvm.compiler.hotspot.meta",
+                    "FROMID": "m.jdk.deploy",
+                    "TOID": "p.com.sun.deploy.net.protocol.chrome",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports qualified",
                     "COLOR": "red"
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.deploy",
-                    "TOID": "p.com.sun.deploy.net.protocol.chrome",
+                    "FROMID": "m.jdk.internal.vm.compiler",
+                    "TOID": "p.org.graalvm.compiler.hotspot.meta",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports qualified",
                     "COLOR": "red"
@@ -10606,19 +10606,19 @@
                 }
                 ,
                 {
-                    "FROMID": "m.javafx.media",
-                    "TOID": "p.com.sun.media.jfxmedia.locator",
-                    "STYLE": "solid",
-                    "INFOSTRING": "Exports qualified",
-                    "COLOR": "red"
-                }
-                ,
-                {
                     "FROMID": "p.com.sun.deploy.uitoolkit.impl.awt.ui",
                     "TOID": "m.jdk.plugin",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.media",
+                    "TOID": "p.com.sun.media.jfxmedia.locator",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports qualified",
+                    "COLOR": "red"
                 }
                 ,
                 {
@@ -10638,19 +10638,19 @@
                 }
                 ,
                 {
-                    "FROMID": "p.org.graalvm.compiler.runtime",
-                    "TOID": "m.jdk.aot",
-                    "STYLE": "dotted",
-                    "INFOSTRING": "Exported for",
-                    "COLOR": "orange"
-                }
-                ,
-                {
                     "FROMID": "m.jdk.httpserver",
                     "TOID": "p.com.sun.net.httpserver.spi",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports",
                     "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "p.org.graalvm.compiler.runtime",
+                    "TOID": "m.jdk.aot",
+                    "STYLE": "dotted",
+                    "INFOSTRING": "Exported for",
+                    "COLOR": "orange"
                 }
                 ,
                 {
@@ -10726,11 +10726,11 @@
                 }
                 ,
                 {
-                    "FROMID": "m.javafx.graphics",
-                    "TOID": "p.javafx.scene.paint",
-                    "STYLE": "solid",
-                    "INFOSTRING": "Exports",
-                    "COLOR": "gray"
+                    "FROMID": "p.com.sun.deploy.trace",
+                    "TOID": "m.jdk.plugin.server",
+                    "STYLE": "dotted",
+                    "INFOSTRING": "Exported for",
+                    "COLOR": "orange"
                 }
                 ,
                 {
@@ -10742,11 +10742,11 @@
                 }
                 ,
                 {
-                    "FROMID": "p.com.sun.deploy.trace",
-                    "TOID": "m.jdk.plugin.server",
-                    "STYLE": "dotted",
-                    "INFOSTRING": "Exported for",
-                    "COLOR": "orange"
+                    "FROMID": "m.javafx.graphics",
+                    "TOID": "p.javafx.scene.paint",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "gray"
                 }
                 ,
                 {
@@ -10838,6 +10838,14 @@
                 }
                 ,
                 {
+                    "FROMID": "p.com.sun.deploy.net.protocol.about",
+                    "TOID": "m.java.base",
+                    "STYLE": "dotted",
+                    "INFOSTRING": "Exported for",
+                    "COLOR": "orange"
+                }
+                ,
+                {
                     "FROMID": "m.java.xml.crypto",
                     "TOID": "p.javax.xml.crypto.dom",
                     "STYLE": "solid",
@@ -10848,14 +10856,6 @@
                 {
                     "FROMID": "p.com.sun.tools.javac.code",
                     "TOID": "m.jdk.jshell",
-                    "STYLE": "dotted",
-                    "INFOSTRING": "Exported for",
-                    "COLOR": "orange"
-                }
-                ,
-                {
-                    "FROMID": "p.com.sun.deploy.net.protocol.about",
-                    "TOID": "m.java.base",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
@@ -11022,16 +11022,16 @@
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.jshell",
-                    "TOID": "p.jdk.jshell.execution",
+                    "FROMID": "m.jdk.security.auth",
+                    "TOID": "p.com.sun.security.auth",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports",
                     "COLOR": "gray"
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.security.auth",
-                    "TOID": "p.com.sun.security.auth",
+                    "FROMID": "m.jdk.jshell",
+                    "TOID": "p.jdk.jshell.execution",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports",
                     "COLOR": "gray"
@@ -11118,16 +11118,16 @@
                 }
                 ,
                 {
-                    "FROMID": "m.javafx.base",
-                    "TOID": "p.com.sun.javafx.runtime",
+                    "FROMID": "m.jdk.deploy",
+                    "TOID": "p.com.sun.deploy.nativesandbox",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports qualified",
                     "COLOR": "red"
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.deploy",
-                    "TOID": "p.com.sun.deploy.nativesandbox",
+                    "FROMID": "m.javafx.base",
+                    "TOID": "p.com.sun.javafx.runtime",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports qualified",
                     "COLOR": "red"
@@ -11190,6 +11190,14 @@
                 }
                 ,
                 {
+                    "FROMID": "p.jdk.internal.module",
+                    "TOID": "m.jdk.jartool",
+                    "STYLE": "dotted",
+                    "INFOSTRING": "Exported for",
+                    "COLOR": "orange"
+                }
+                ,
+                {
                     "FROMID": "p.sun.security.util",
                     "TOID": "m.java.desktop",
                     "STYLE": "dotted",
@@ -11198,8 +11206,8 @@
                 }
                 ,
                 {
-                    "FROMID": "p.jdk.internal.module",
-                    "TOID": "m.jdk.jartool",
+                    "FROMID": "p.com.sun.deploy.net",
+                    "TOID": "m.jdk.javaws",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
@@ -11211,14 +11219,6 @@
                     "STYLE": "solid",
                     "INFOSTRING": "Exports qualified",
                     "COLOR": "red"
-                }
-                ,
-                {
-                    "FROMID": "p.com.sun.deploy.net",
-                    "TOID": "m.jdk.javaws",
-                    "STYLE": "dotted",
-                    "INFOSTRING": "Exported for",
-                    "COLOR": "orange"
                 }
                 ,
                 {
@@ -11327,7 +11327,7 @@
                 ,
                 {
                     "FROMID": "m.jdk.packager",
-                    "TOID": "p.com.sun.javafx.tools.packager.bundlers",
+                    "TOID": "p.com.sun.javafx.tools.resource",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports",
                     "COLOR": "gray"
@@ -11335,7 +11335,7 @@
                 ,
                 {
                     "FROMID": "m.jdk.packager",
-                    "TOID": "p.com.sun.javafx.tools.resource",
+                    "TOID": "p.com.sun.javafx.tools.packager.bundlers",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports",
                     "COLOR": "gray"
@@ -11454,16 +11454,16 @@
                 }
                 ,
                 {
-                    "FROMID": "p.com.sun.javafx.geom.transform",
-                    "TOID": "m.javafx.web",
+                    "FROMID": "p.com.sun.deploy.uitoolkit.ui",
+                    "TOID": "m.jdk.deploy.controlpanel",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
                 }
                 ,
                 {
-                    "FROMID": "p.com.sun.deploy.uitoolkit.ui",
-                    "TOID": "m.jdk.deploy.controlpanel",
+                    "FROMID": "p.com.sun.javafx.geom.transform",
+                    "TOID": "m.javafx.web",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
@@ -11806,16 +11806,16 @@
                 }
                 ,
                 {
-                    "FROMID": "p.com.sun.scenario.effect.impl.prism",
-                    "TOID": "m.javafx.web",
+                    "FROMID": "p.com.sun.deploy.ref",
+                    "TOID": "m.jdk.plugin.server",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
                 }
                 ,
                 {
-                    "FROMID": "p.com.sun.deploy.ref",
-                    "TOID": "m.jdk.plugin.server",
+                    "FROMID": "p.com.sun.scenario.effect.impl.prism",
+                    "TOID": "m.javafx.web",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
@@ -11982,14 +11982,6 @@
                 }
                 ,
                 {
-                    "FROMID": "p.sun.security.krb5",
-                    "TOID": "m.jdk.security.auth",
-                    "STYLE": "dotted",
-                    "INFOSTRING": "Exported for",
-                    "COLOR": "orange"
-                }
-                ,
-                {
                     "FROMID": "m.jdk.deploy",
                     "TOID": "p.com.sun.deploy.net",
                     "STYLE": "solid",
@@ -12000,6 +11992,14 @@
                 {
                     "FROMID": "p.com.sun.deploy.net.proxy",
                     "TOID": "m.jdk.plugin.server",
+                    "STYLE": "dotted",
+                    "INFOSTRING": "Exported for",
+                    "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "p.sun.security.krb5",
+                    "TOID": "m.jdk.security.auth",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
@@ -12102,19 +12102,19 @@
                 }
                 ,
                 {
-                    "FROMID": "p.sun.rmi.server",
-                    "TOID": "m.java.management.rmi",
-                    "STYLE": "dotted",
-                    "INFOSTRING": "Exported for",
-                    "COLOR": "orange"
-                }
-                ,
-                {
                     "FROMID": "m.java.security.jgss",
                     "TOID": "p.javax.security.auth.kerberos",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports",
                     "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "p.sun.rmi.server",
+                    "TOID": "m.java.management.rmi",
+                    "STYLE": "dotted",
+                    "INFOSTRING": "Exported for",
+                    "COLOR": "orange"
                 }
                 ,
                 {
@@ -12166,6 +12166,14 @@
                 }
                 ,
                 {
+                    "FROMID": "m.oracle.net",
+                    "TOID": "p.com.oracle.net",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "gray"
+                }
+                ,
+                {
                     "FROMID": "p.com.sun.javafx.sg.prism",
                     "TOID": "m.javafx.media",
                     "STYLE": "dotted",
@@ -12182,11 +12190,11 @@
                 }
                 ,
                 {
-                    "FROMID": "m.oracle.net",
-                    "TOID": "p.com.oracle.net",
-                    "STYLE": "solid",
-                    "INFOSTRING": "Exports",
-                    "COLOR": "gray"
+                    "FROMID": "p.com.sun.deploy",
+                    "TOID": "m.jdk.deploy.controlpanel",
+                    "STYLE": "dotted",
+                    "INFOSTRING": "Exported for",
+                    "COLOR": "orange"
                 }
                 ,
                 {
@@ -12195,14 +12203,6 @@
                     "STYLE": "solid",
                     "INFOSTRING": "Exports qualified",
                     "COLOR": "red"
-                }
-                ,
-                {
-                    "FROMID": "p.com.sun.deploy",
-                    "TOID": "m.jdk.deploy.controlpanel",
-                    "STYLE": "dotted",
-                    "INFOSTRING": "Exported for",
-                    "COLOR": "orange"
                 }
                 ,
                 {
@@ -12318,19 +12318,19 @@
                 }
                 ,
                 {
-                    "FROMID": "m.java.xml",
-                    "TOID": "p.com.sun.org.apache.xml.internal.dtm",
-                    "STYLE": "solid",
-                    "INFOSTRING": "Exports qualified",
-                    "COLOR": "red"
-                }
-                ,
-                {
                     "FROMID": "p.com.sun.deploy.xml",
                     "TOID": "m.jdk.javaws",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.java.xml",
+                    "TOID": "p.com.sun.org.apache.xml.internal.dtm",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports qualified",
+                    "COLOR": "red"
                 }
                 ,
                 {
@@ -12390,19 +12390,19 @@
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.javaws",
-                    "TOID": "p.com.sun.javaws.registration",
-                    "STYLE": "solid",
-                    "INFOSTRING": "Exports qualified",
-                    "COLOR": "red"
-                }
-                ,
-                {
                     "FROMID": "p.com.sun.applet2",
                     "TOID": "m.jdk.plugin",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.javaws",
+                    "TOID": "p.com.sun.javaws.registration",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports qualified",
+                    "COLOR": "red"
                 }
                 ,
                 {
@@ -12526,19 +12526,19 @@
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.scripting.nashorn",
-                    "TOID": "p.jdk.nashorn.internal.runtime",
-                    "STYLE": "solid",
-                    "INFOSTRING": "Exports qualified",
-                    "COLOR": "red"
-                }
-                ,
-                {
                     "FROMID": "p.org.graalvm.compiler.printer",
                     "TOID": "m.jdk.aot",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.scripting.nashorn",
+                    "TOID": "p.jdk.nashorn.internal.runtime",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports qualified",
+                    "COLOR": "red"
                 }
                 ,
                 {
@@ -12558,19 +12558,19 @@
                 }
                 ,
                 {
-                    "FROMID": "p.sun.plugin2.uitoolkit",
-                    "TOID": "m.jdk.deploy",
-                    "STYLE": "dotted",
-                    "INFOSTRING": "Exported for",
-                    "COLOR": "orange"
-                }
-                ,
-                {
                     "FROMID": "m.jdk.jshell",
                     "TOID": "p.jdk.jshell",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports",
                     "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "p.sun.plugin2.uitoolkit",
+                    "TOID": "m.jdk.deploy",
+                    "STYLE": "dotted",
+                    "INFOSTRING": "Exported for",
+                    "COLOR": "orange"
                 }
                 ,
                 {
@@ -12686,19 +12686,19 @@
                 }
                 ,
                 {
-                    "FROMID": "p.com.sun.javafx.scene",
-                    "TOID": "m.javafx.controls",
-                    "STYLE": "dotted",
-                    "INFOSTRING": "Exported for",
-                    "COLOR": "orange"
-                }
-                ,
-                {
                     "FROMID": "m.javafx.graphics",
                     "TOID": "p.javafx.scene.transform",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports",
                     "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "p.com.sun.javafx.scene",
+                    "TOID": "m.javafx.controls",
+                    "STYLE": "dotted",
+                    "INFOSTRING": "Exported for",
+                    "COLOR": "orange"
                 }
                 ,
                 {
@@ -12926,16 +12926,16 @@
                 }
                 ,
                 {
-                    "FROMID": "p.sun.reflect.misc",
-                    "TOID": "m.java.rmi",
+                    "FROMID": "p.sun.net.ext",
+                    "TOID": "m.jdk.net",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
                 }
                 ,
                 {
-                    "FROMID": "p.sun.net.ext",
-                    "TOID": "m.jdk.net",
+                    "FROMID": "p.sun.reflect.misc",
+                    "TOID": "m.java.rmi",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
@@ -13126,11 +13126,11 @@
                 }
                 ,
                 {
-                    "FROMID": "m.java.naming",
-                    "TOID": "p.javax.naming",
-                    "STYLE": "solid",
-                    "INFOSTRING": "Exports",
-                    "COLOR": "gray"
+                    "FROMID": "p.com.sun.deploy.ui",
+                    "TOID": "m.jdk.javaws",
+                    "STYLE": "dotted",
+                    "INFOSTRING": "Exported for",
+                    "COLOR": "orange"
                 }
                 ,
                 {
@@ -13142,8 +13142,16 @@
                 }
                 ,
                 {
-                    "FROMID": "p.com.sun.deploy.ui",
-                    "TOID": "m.jdk.javaws",
+                    "FROMID": "m.java.naming",
+                    "TOID": "p.javax.naming",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "p.com.sun.deploy.config",
+                    "TOID": "m.jdk.deploy.controlpanel",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
@@ -13152,14 +13160,6 @@
                 {
                     "FROMID": "p.com.sun.javafx.menu",
                     "TOID": "m.javafx.controls",
-                    "STYLE": "dotted",
-                    "INFOSTRING": "Exported for",
-                    "COLOR": "orange"
-                }
-                ,
-                {
-                    "FROMID": "p.com.sun.deploy.config",
-                    "TOID": "m.jdk.deploy.controlpanel",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
@@ -13358,14 +13358,6 @@
                 }
                 ,
                 {
-                    "FROMID": "m.java.xml",
-                    "TOID": "p.javax.xml",
-                    "STYLE": "solid",
-                    "INFOSTRING": "Exports",
-                    "COLOR": "gray"
-                }
-                ,
-                {
                     "FROMID": "p.com.sun.deploy.util",
                     "TOID": "m.javafx.deploy",
                     "STYLE": "dotted",
@@ -13374,8 +13366,8 @@
                 }
                 ,
                 {
-                    "FROMID": "m.java.logging",
-                    "TOID": "p.java.util.logging",
+                    "FROMID": "m.java.xml",
+                    "TOID": "p.javax.xml",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports",
                     "COLOR": "gray"
@@ -13384,6 +13376,14 @@
                 {
                     "FROMID": "m.jdk.packager",
                     "TOID": "p.com.oracle.tools.packager",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.logging",
+                    "TOID": "p.java.util.logging",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports",
                     "COLOR": "gray"
@@ -13462,19 +13462,19 @@
                 }
                 ,
                 {
-                    "FROMID": "m.java.sql.rowset",
-                    "TOID": "p.javax.sql.rowset.spi",
-                    "STYLE": "solid",
-                    "INFOSTRING": "Exports",
-                    "COLOR": "gray"
-                }
-                ,
-                {
                     "FROMID": "m.jdk.compiler",
                     "TOID": "p.com.sun.tools.javac.tree",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports qualified",
                     "COLOR": "red"
+                }
+                ,
+                {
+                    "FROMID": "m.java.sql.rowset",
+                    "TOID": "p.javax.sql.rowset.spi",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "gray"
                 }
                 ,
                 {
@@ -13630,19 +13630,19 @@
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.jdi",
-                    "TOID": "p.com.sun.jdi.event",
-                    "STYLE": "solid",
-                    "INFOSTRING": "Exports",
-                    "COLOR": "gray"
-                }
-                ,
-                {
                     "FROMID": "p.jdk.vm.ci.runtime",
                     "TOID": "m.jdk.internal.vm.compiler.management",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.jdi",
+                    "TOID": "p.com.sun.jdi.event",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "gray"
                 }
                 ,
                 {
@@ -13758,6 +13758,14 @@
                 }
                 ,
                 {
+                    "FROMID": "p.com.sun.deploy.model",
+                    "TOID": "m.jdk.plugin",
+                    "STYLE": "dotted",
+                    "INFOSTRING": "Exported for",
+                    "COLOR": "orange"
+                }
+                ,
+                {
                     "FROMID": "m.java.management",
                     "TOID": "p.javax.management.relation",
                     "STYLE": "solid",
@@ -13774,22 +13782,6 @@
                 }
                 ,
                 {
-                    "FROMID": "p.com.sun.deploy.model",
-                    "TOID": "m.jdk.plugin",
-                    "STYLE": "dotted",
-                    "INFOSTRING": "Exported for",
-                    "COLOR": "orange"
-                }
-                ,
-                {
-                    "FROMID": "m.java.desktop",
-                    "TOID": "p.javax.sound.sampled.spi",
-                    "STYLE": "solid",
-                    "INFOSTRING": "Exports",
-                    "COLOR": "gray"
-                }
-                ,
-                {
                     "FROMID": "m.jdk.dynalink",
                     "TOID": "p.jdk.dynalink.linker",
                     "STYLE": "solid",
@@ -13800,6 +13792,14 @@
                 {
                     "FROMID": "m.java.compiler",
                     "TOID": "p.javax.lang.model.util",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.java.desktop",
+                    "TOID": "p.javax.sound.sampled.spi",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports",
                     "COLOR": "gray"
@@ -13822,19 +13822,19 @@
                 }
                 ,
                 {
-                    "FROMID": "p.org.graalvm.compiler.hotspot.replacements",
-                    "TOID": "m.jdk.aot",
-                    "STYLE": "dotted",
-                    "INFOSTRING": "Exported for",
-                    "COLOR": "orange"
-                }
-                ,
-                {
                     "FROMID": "m.jdk.jfr",
                     "TOID": "p.jdk.jfr.consumer",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports",
                     "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "p.org.graalvm.compiler.hotspot.replacements",
+                    "TOID": "m.jdk.aot",
+                    "STYLE": "dotted",
+                    "INFOSTRING": "Exported for",
+                    "COLOR": "orange"
                 }
                 ,
                 {
@@ -13982,8 +13982,8 @@
                 }
                 ,
                 {
-                    "FROMID": "p.com.sun.org.apache.xpath.internal",
-                    "TOID": "m.java.xml.crypto",
+                    "FROMID": "p.com.sun.applet2",
+                    "TOID": "m.javafx.deploy",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
@@ -13998,8 +13998,8 @@
                 }
                 ,
                 {
-                    "FROMID": "p.com.sun.applet2",
-                    "TOID": "m.javafx.deploy",
+                    "FROMID": "p.com.sun.org.apache.xpath.internal",
+                    "TOID": "m.java.xml.crypto",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
@@ -14030,16 +14030,16 @@
                 }
                 ,
                 {
-                    "FROMID": "m.java.rmi",
-                    "TOID": "p.sun.rmi.transport",
+                    "FROMID": "m.java.management",
+                    "TOID": "p.com.sun.jmx.remote.security",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports qualified",
                     "COLOR": "red"
                 }
                 ,
                 {
-                    "FROMID": "m.java.management",
-                    "TOID": "p.com.sun.jmx.remote.security",
+                    "FROMID": "m.java.rmi",
+                    "TOID": "p.sun.rmi.transport",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports qualified",
                     "COLOR": "red"
@@ -14070,19 +14070,19 @@
                 }
                 ,
                 {
-                    "FROMID": "m.java.xml",
-                    "TOID": "p.com.sun.org.apache.xpath.internal.objects",
-                    "STYLE": "solid",
-                    "INFOSTRING": "Exports qualified",
-                    "COLOR": "red"
-                }
-                ,
-                {
                     "FROMID": "p.com.sun.deploy.security.ruleset",
                     "TOID": "m.jdk.plugin",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.java.xml",
+                    "TOID": "p.com.sun.org.apache.xpath.internal.objects",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports qualified",
+                    "COLOR": "red"
                 }
                 ,
                 {
@@ -14134,19 +14134,19 @@
                 }
                 ,
                 {
-                    "FROMID": "m.javafx.graphics",
-                    "TOID": "p.javafx.animation",
-                    "STYLE": "solid",
-                    "INFOSTRING": "Exports",
-                    "COLOR": "gray"
-                }
-                ,
-                {
                     "FROMID": "m.jdk.jstatd",
                     "TOID": "p.sun.jvmstat.monitor.remote",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports qualified",
                     "COLOR": "red"
+                }
+                ,
+                {
+                    "FROMID": "m.javafx.graphics",
+                    "TOID": "p.javafx.animation",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "gray"
                 }
                 ,
                 {
@@ -14214,19 +14214,19 @@
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.plugin",
-                    "TOID": "p.sun.plugin2.applet.viewer",
-                    "STYLE": "solid",
-                    "INFOSTRING": "Exports qualified",
-                    "COLOR": "red"
-                }
-                ,
-                {
                     "FROMID": "m.java.scripting",
                     "TOID": "p.javax.script",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports",
                     "COLOR": "gray"
+                }
+                ,
+                {
+                    "FROMID": "m.jdk.plugin",
+                    "TOID": "p.sun.plugin2.applet.viewer",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports qualified",
+                    "COLOR": "red"
                 }
                 ,
                 {
@@ -14254,16 +14254,16 @@
                 }
                 ,
                 {
-                    "FROMID": "p.com.sun.jndi.toolkit.url",
-                    "TOID": "m.jdk.naming.rmi",
+                    "FROMID": "p.com.sun.deploy.net.protocol.jnlps",
+                    "TOID": "m.java.base",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
                 }
                 ,
                 {
-                    "FROMID": "p.com.sun.deploy.net.protocol.jnlps",
-                    "TOID": "m.java.base",
+                    "FROMID": "p.com.sun.jndi.toolkit.url",
+                    "TOID": "m.jdk.naming.rmi",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
@@ -14310,16 +14310,16 @@
                 }
                 ,
                 {
-                    "FROMID": "m.java.desktop",
-                    "TOID": "p.sun.awt.image",
+                    "FROMID": "m.jdk.deploy",
+                    "TOID": "p.com.sun.deploy.net.protocol.jnlps",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports qualified",
                     "COLOR": "red"
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.deploy",
-                    "TOID": "p.com.sun.deploy.net.protocol.jnlps",
+                    "FROMID": "m.java.desktop",
+                    "TOID": "p.sun.awt.image",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports qualified",
                     "COLOR": "red"
@@ -14510,6 +14510,14 @@
                 }
                 ,
                 {
+                    "FROMID": "p.com.sun.deploy.ui",
+                    "TOID": "m.jdk.plugin",
+                    "STYLE": "dotted",
+                    "INFOSTRING": "Exported for",
+                    "COLOR": "orange"
+                }
+                ,
+                {
                     "FROMID": "m.javafx.graphics",
                     "TOID": "p.com.sun.javafx.jmx",
                     "STYLE": "solid",
@@ -14526,14 +14534,6 @@
                 }
                 ,
                 {
-                    "FROMID": "p.com.sun.deploy.ui",
-                    "TOID": "m.jdk.plugin",
-                    "STYLE": "dotted",
-                    "INFOSTRING": "Exported for",
-                    "COLOR": "orange"
-                }
-                ,
-                {
                     "FROMID": "p.com.sun.javafx.application",
                     "TOID": "m.javafx.controls",
                     "STYLE": "dotted",
@@ -14542,16 +14542,16 @@
                 }
                 ,
                 {
-                    "FROMID": "p.com.sun.glass.ui",
-                    "TOID": "m.javafx.web",
+                    "FROMID": "p.jdk.internal.editor.external",
+                    "TOID": "m.jdk.jshell",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
                 }
                 ,
                 {
-                    "FROMID": "p.jdk.internal.editor.external",
-                    "TOID": "m.jdk.jshell",
+                    "FROMID": "p.com.sun.glass.ui",
+                    "TOID": "m.javafx.web",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
@@ -14710,16 +14710,16 @@
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.scripting.nashorn",
-                    "TOID": "p.jdk.nashorn.tools",
+                    "FROMID": "m.jdk.deploy",
+                    "TOID": "p.com.sun.deploy.util",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports qualified",
                     "COLOR": "red"
                 }
                 ,
                 {
-                    "FROMID": "m.jdk.deploy",
-                    "TOID": "p.com.sun.deploy.util",
+                    "FROMID": "m.jdk.scripting.nashorn",
+                    "TOID": "p.jdk.nashorn.tools",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports qualified",
                     "COLOR": "red"
@@ -14830,19 +14830,19 @@
                 }
                 ,
                 {
-                    "FROMID": "m.java.desktop",
-                    "TOID": "p.javax.imageio.stream",
-                    "STYLE": "solid",
-                    "INFOSTRING": "Exports",
-                    "COLOR": "gray"
-                }
-                ,
-                {
                     "FROMID": "p.com.sun.deploy.uitoolkit",
                     "TOID": "m.jdk.javaws",
                     "STYLE": "dotted",
                     "INFOSTRING": "Exported for",
                     "COLOR": "orange"
+                }
+                ,
+                {
+                    "FROMID": "m.java.desktop",
+                    "TOID": "p.javax.imageio.stream",
+                    "STYLE": "solid",
+                    "INFOSTRING": "Exports",
+                    "COLOR": "gray"
                 }
                 ,
                 {
@@ -14966,19 +14966,19 @@
                 }
                 ,
                 {
-                    "FROMID": "p.com.sun.deploy.uitoolkit",
-                    "TOID": "m.javafx.deploy",
-                    "STYLE": "dotted",
-                    "INFOSTRING": "Exported for",
-                    "COLOR": "orange"
-                }
-                ,
-                {
                     "FROMID": "m.jdk.deploy",
                     "TOID": "p.com.sun.deploy.services",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports qualified",
                     "COLOR": "red"
+                }
+                ,
+                {
+                    "FROMID": "p.com.sun.deploy.uitoolkit",
+                    "TOID": "m.javafx.deploy",
+                    "STYLE": "dotted",
+                    "INFOSTRING": "Exported for",
+                    "COLOR": "orange"
                 }
                 ,
                 {
@@ -15046,19 +15046,19 @@
                 }
                 ,
                 {
-                    "FROMID": "p.com.sun.jmx.remote.internal.rmi",
-                    "TOID": "m.jdk.management.agent",
-                    "STYLE": "dotted",
-                    "INFOSTRING": "Exported for",
-                    "COLOR": "orange"
-                }
-                ,
-                {
                     "FROMID": "m.javafx.graphics",
                     "TOID": "p.com.sun.javafx.geom.transform",
                     "STYLE": "solid",
                     "INFOSTRING": "Exports qualified",
                     "COLOR": "red"
+                }
+                ,
+                {
+                    "FROMID": "p.com.sun.jmx.remote.internal.rmi",
+                    "TOID": "m.jdk.management.agent",
+                    "STYLE": "dotted",
+                    "INFOSTRING": "Exported for",
+                    "COLOR": "orange"
                 }
                 ,
                 {

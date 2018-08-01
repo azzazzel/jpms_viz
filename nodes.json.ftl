@@ -14,12 +14,12 @@
                         <#assign size = "10">
                         <#break>
                     <#case "Service definition">
-                        <#assign label = "">
+                        <#assign label = "${node.name}">
                         <#assign color = "gray">
                         <#assign size = "5">
                         <#break>
                     <#case "Service">
-                        <#assign label = "">
+                        <#assign label = "${node.name}">
                         <#assign color = "brown">
                         <#assign size = "3">
                         <#break>
@@ -44,7 +44,7 @@
         "links": [
             <#list links as link>
                 <#switch link.label>
-                    <#case "Uses">
+                    <#case "Implements">
                         <#assign line = "dashed">
                         <#assign lineColor = "gray">
                         <#break>
